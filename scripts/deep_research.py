@@ -191,16 +191,18 @@ def main():
             }
             results.append(result)
             status = "KEEP" if roi > best_result["roi"] else "REJECT"
+            return_100 = roi * 100.0  # $ return on $100 invested (positive = profit, negative = loss)
             if roi > best_result["roi"]:
-                best_result = {"roi": roi, "settings": exp, "pair": result["pair"], "label": exp["label"]}
-            print(f"  {result['pair']} | {exp['label']:20s} | ROI={roi*100:>+7.2f}% | strike={strike*100:.1f}% | bets={bets_placed:>4} | status={status}")
+                best_result = {"roi": roi, "settings": exp, "pair": result["pair"], "label": exp["label"], "return_100": return_100}
+            print(f"  {result['pair']} | {exp['label']:20s} | ROI={roi*100:>+7.2f}% (${'+' if roi>=0 else ''}{return_100:.2f}/$100) | strike={strike*100:.1f}% | bets={bets_placed:>4} | status={status}")
 
     # Filter: only keep positive ROI results
     positive = [r for r in results if r["positive"] and r["roi"] > 0]
     print(f"\n=== SUMMARY ===")
     print(f"Total experiment runs: {len(results)}")
     print(f"Positive ROI results: {len(positive)}")
-    print(f"Best positive config: {best_result.get('label')} on {best_result.get('pair')} with ROI={best_result.get('roi', 'N/A')*100 if isinstance(best_result.get('roi'), (int, float)) else 'N/A'}%")
+    best_return_100 = best_result.get("return_100", best_result.get("roi", 0) * 100.0)
+    print(f"Best positive config: {best_result.get('label')} on {best_result.get('pair')} with ROI={best_result.get('roi', 'N/A')*100 if isinstance(best_result.get('roi'), (int, float)) else 'N/A'}% (${'+' if best_result.get('roi',0)>=0 else ''}{best_return_100:.2f}/$100)")
 
     # Write deep research report
     report_path = Path("reports/deep_research.md")
