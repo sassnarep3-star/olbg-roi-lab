@@ -1,13 +1,29 @@
 # Public data sources per sport
 
 Everything here is public/freely accessible (check each site's terms; many
-free tiers limit request volume). Odds data: The Odds API has a free tier
-(500 requests/month, no card) — `export ODDS_API_KEY=...` then
-`python -m olbg_roi fetch-odds --source the-odds-api --sport tennis`.
+free tiers limit request volume). 
+
+**Workaround for the 500-credit/month cap on The Odds API**: this repo
+implements local JSON caching (`cache/`), a request-rate tracker
+(`.cache_requests.json`), batch fetching (`batch_fetch`), and mock-mode
+fallbacks (`_mock: true`) for SharpAPI and odds-api.net — see
+`olbg_roi/odds/sources.py`. Use `python -m olbg_roi fetch-odds --source sharpapi`
+or `--source odds-api-net` to rotate sources and avoid burning the single
+key.
+
+| Source | Endpoint / docs | Free tier | Rate notes |
+|---|---|---|---|
+| The Odds API | the-odds-api.com | 500 requests/mo | Legacy reference; key via `ODDS_API_KEY` |
+| SharpAPI | sharpapi.io/docs | 12 req/min (17,280/day) | Key `SHARPAPI_KEY`; no card needed |
+| odds-api.net | github.com/odds-api/odds-api | Free key + mock mode | Key `ODDS_API_NET_KEY`; includes local mock |
+
+Odds data: `export ODDS_API_KEY=...` then `python -m olbg_roi fetch-odds --source the-odds-api --sport tennis` (or `sharpapi` / `odds-api-net`).
 
 | Sport | Source | URL | What you get | Notes |
 |---|---|---|---|---|
-| All | The Odds API | the-odds-api.com | aggregated bookmaker odds (h2h, spreads, totals) | free key; ~500 req/mo |
+| All | The Odds API | the-odds-api.com | aggregated bookmaker odds (h2h, spreads, totals) | free key; ~500 req/mo; cached locally |
+| All | SharpAPI | sharpapi.io | real-time odds, +EV, no-vig fair odds | 12 req/min free tier; `SHARPAPI_KEY` |
+| All | odds-api.net | github.com/odds-api/odds-api | REST + mock mode, OpenAPI-first | free key; `ODDS_API_NET_KEY` |
 | Tennis | Tennis-Data.co.uk | tennis-data.co.uk | match odds + stats per year (ATP/WTA) | free xlsx downloads |
 | Tennis | Jeff Sackmann | github.com/JeffSackmann | match charts, point-level data | public repos |
 | Snooker | snooker.org | snooker.org | results & fixtures | lightweight pages, easy to parse |

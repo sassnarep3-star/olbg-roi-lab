@@ -9,8 +9,8 @@ implementation on tennis.
 | # | Milestone | Contents | Status |
 |---|---|---|---|
 | M0 | **Scaffold + demo pipeline** | Repo, CLI, margin removal, Elo baseline, value detection, Kelly staking, walk-forward backtester, prediction generator, synthetic demo | ✅ done |
-| M1 | **Real odds ingestion** | The Odds API adapter (done, needs key), OLBG/CSV importers, odds normalisation across bookmakers, odds-movement tracking | 🔜 next |
-| M2 | **Real data + per-sport features** | Historical results per sport → h2h Elo baselines, backtested ROI per sport on real data; surface/tournament/home splits | |
+| M1 | **Real odds ingestion** | SharpAPI + odds-api.net adapters, caching, rate tracker, mock mode, batch fetch, CLI choices updated | ✅ done (workaround: free tiers + mock) |
+| M2 | **Real data + per-sport features** | Historical results per sport → h2h Elo baselines, backtested ROI per sport on real data; surface/tournament/home splits | 🟡 started (tennis adapter + source links) |
 | M3 | **Feature engineering** | Sport-specific public stats (serve %, 3-dart averages, pace, SP quality, qualifying→race…), feature store, train/valid/test splits | |
 | M4 | **Model upgrade** | Gradient boosting (LightGBM) on Elo + features; calibration (Platt/isotonic); Brier/log-loss evaluation; walk-forward CV | |
 | M5 | **Staking & bankroll** | Kelly variants (fractional, half-Kelly, proportional), drawdown control, correlation-aware staking, bet limits | |

@@ -90,7 +90,19 @@ olbg_roi/
                                             fractional Kelly stake ──► backtest → ROI?
 ```
 
-## Sport status (M0)
+## Odds ingestion (updated M1)
+
+We support **three public sources** to work around the 500-credit/month cap on The Odds API:
+
+| Source | CLI flag | Key env var | Free tier | Workaround feature |
+|---|---|---|---|---|
+| The Odds API | `--source the-odds-api` | `ODDS_API_KEY` | 500 req/mo | 1-hr JSON cache (`cache/`) |
+| SharpAPI | `--source sharpapi` | `SHARPAPI_KEY` | 12 req/min (17,280/day) | No card needed |
+| odds-api.net | `--source odds-api-net` | `ODDS_API_NET_KEY` | Free key + mock mode | Mock mode (`_mock`) for pipeline testing |
+
+**Rate tracker** (`.cache_requests.json`) counts requests per source and warns at 90% of free-tier limits. **Batch fetch** (`batch_fetch`) pulls multiple sports in one loop. If no key is set, adapters write clearly-tagged mock JSON so `predict` and backtests still run — see the warnings printed when running without keys. Always label synthetic results as synthetic (`docs/data_sources.md`).
+
+## Sport status (M0 — M1 odds layer complete)
 
 | Sport | Outcome type | Baseline model | Status |
 |---|---|---|---|

@@ -194,7 +194,7 @@ def build_parser() -> argparse.ArgumentParser:
     p.set_defaults(func=cmd_init_demo)
 
     p = sub.add_parser("fetch-odds", help="pull current bookmaker odds")
-    p.add_argument("--source", choices=["olbg", "the-odds-api"], default="the-odds-api")
+    p.add_argument("--source", choices=["olbg", "the-odds-api", "sharpapi", "odds-api-net"], default="the-odds-api")
     p.add_argument("--sport", required=True, help=f"sport key ({_sport_choice()})")
     p.add_argument("--out", default="data/raw")
     p.set_defaults(func=cmd_fetch_odds)

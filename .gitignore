@@ -17,7 +17,10 @@ reports/
 data/predictions/
 
 # Data: ignore everything except the committed demo files
+# For M2 real tennis data, add downloaded files manually with:
+#   git add -f data/raw/tennis/<file>.csv
 data/raw/*
+!data/raw/tennis/*
 !data/raw/tennis_demo.csv
 !data/raw/tennis_demo_fixtures.csv
 !data/raw/tennis_demo_meta.json
