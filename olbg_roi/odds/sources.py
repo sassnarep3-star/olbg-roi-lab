@@ -34,6 +34,13 @@ from typing import Any, Dict, List, Optional
 
 from .model import Market
 
+# Optional SDK reference from odds-api repo (cloned / copied into sdk/)
+try:
+    from .sdk import OddsApiClient, OddsApiError
+    SDK_AVAILABLE = True
+except Exception:
+    SDK_AVAILABLE = False
+
 # ------------------------------------------------------------------ keys
 SPORT_KEYS: Dict[str, str] = {
     "tennis": "tennis_atp",
