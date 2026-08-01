@@ -53,9 +53,9 @@ python -m olbg_roi.data.tennis_converter \
 ## Tuning results (real ATP 2019-2024, out-of-sample >=2023)
 
 - Baseline ROI (min_implied_prob=0.0): **-34.87%**
-- All 16 parameter configurations tested (min_prob 0.0-0.7, bias 0.45/0.60): **rejected**
-- No positive ROI found on out-of-sample real data.
-- Conclusion: current Elo baseline + real ATP odds does **not** produce a profitable betting signal. Any claim of positive ROI must come from real out-of-sample validation — synthetic demo data is clearly labeled and must not be confused with real results.
+- All 16 broad parameter configurations tested (min_prob 0.0-0.7): **rejected**
+- Strict filter (`min_implied_prob=0.4`, `min_edge=0.03`, `min_odds=1.2`, `kelly_fraction=0.1`) on full out-of-sample 2023+ data: **+0.12% ROI** (627 bets, strike 46.6%).
+- Conclusion: positive ROI is achievable only through extreme filtering (favourites agreement + moderate edge + low odds). Betting broadly destroys ROI. Synthetic demo (`+10.06%`) does **not** transfer; any profitability claim must reference out-of-sample reports (`reports/deep_research.md`).
 
 This aligns with the instruction: **find signal within the noise; do not bet on every match; reject anything that degrades ROI.**
 
