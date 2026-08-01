@@ -1,0 +1,19 @@
+{
+  "dataset": "SYNTHETIC DEMO \u2014 do not use for real betting decisions",
+  "generator": "olbg_roi.demo.generate.generate_tennis_demo",
+  "seed": 42,
+  "n_seasons": 6,
+  "n_players": 16,
+  "matches_per_season": 180,
+  "planted_bias": {
+    "favourite_longshot_bias": 0.6,
+    "uniform_margin": 0.05,
+    "form_noise": 0.1,
+    "odds_noise": 0.02,
+    "explanation": "bookmaker implied probabilities are systematically too high for longshots and too low for favourites; the bias (0.60) is deliberately exaggerated well beyond anything seen in real markets so the demo pipeline reliably demonstrates positive ROI. Real markets are far tighter; finding real edge is the project's actual goal."
+  },
+  "files": {
+    "matches": "data/raw/tennis_demo.csv",
+    "fixtures": "data/raw/tennis_demo_fixtures.csv"
+  }
+}

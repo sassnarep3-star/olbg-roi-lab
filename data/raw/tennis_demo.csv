@@ -1,0 +1,1081 @@
+date,event,player_a,player_b,score_a,odds_a,odds_b
+2019-01-07,Demo 1.1,H. Van Dijk,P. Doyle,1,1.7,2.22
+2019-01-09,Demo 1.2,K. Mbaye,E. Tanaka,1,1.71,2.1
+2019-01-11,Demo 1.3,C. Lindqvist,G. Petrov,0,2.02,1.7
+2019-01-13,Demo 1.4,D. Moreau,O. Silva,1,1.59,2.71
+2019-01-15,Demo 1.5,L. Kowalski,J. Schmidt,1,1.55,2.38
+2019-01-17,Demo 1.6,H. Van Dijk,N. Berg,1,2.11,1.67
+2019-01-19,Demo 1.7,L. Kowalski,C. Lindqvist,1,1.5,2.37
+2019-01-21,Demo 1.8,F. O'Connell,I. Costa,0,2.48,1.48
+2019-01-23,Demo 1.9,H. Van Dijk,K. Mbaye,1,2.01,1.67
+2019-01-25,Demo 1.10,M. Rossi,E. Tanaka,1,1.57,2.37
+2019-01-27,Demo 1.11,K. Mbaye,D. Moreau,0,2.21,1.77
+2019-01-29,Demo 1.12,H. Van Dijk,L. Kowalski,0,2.63,1.44
+2019-01-31,Demo 1.13,M. Rossi,F. O'Connell,1,1.29,2.83
+2019-02-02,Demo 1.14,D. Moreau,C. Lindqvist,1,1.61,2.43
+2019-02-04,Demo 1.15,C. Lindqvist,G. Petrov,0,1.92,1.62
+2019-02-06,Demo 1.16,A. Novak,K. Mbaye,0,2.13,1.83
+2019-02-08,Demo 1.17,I. Costa,M. Rossi,0,2.38,1.75
+2019-02-10,Demo 1.18,I. Costa,P. Doyle,0,1.65,2.3
+2019-02-12,Demo 1.19,J. Schmidt,N. Berg,1,1.99,1.9
+2019-02-14,Demo 1.20,A. Novak,J. Schmidt,1,1.85,1.78
+2019-02-16,Demo 1.21,J. Schmidt,D. Moreau,0,2.12,1.63
+2019-02-18,Demo 1.22,C. Lindqvist,M. Rossi,0,2.18,1.58
+2019-02-20,Demo 1.23,F. O'Connell,E. Tanaka,0,2.62,1.44
+2019-02-22,Demo 1.24,G. Petrov,L. Kowalski,0,2.16,1.62
+2019-02-24,Demo 1.25,O. Silva,P. Doyle,1,1.8,2.1
+2019-02-26,Demo 1.26,H. Van Dijk,J. Schmidt,1,1.98,1.71
+2019-02-28,Demo 1.27,H. Van Dijk,B. Ferreira,1,2.04,1.86
+2019-03-02,Demo 1.28,G. Petrov,I. Costa,1,1.63,2.22
+2019-03-04,Demo 1.29,P. Doyle,D. Moreau,0,3.04,1.42
+2019-03-06,Demo 1.30,N. Berg,G. Petrov,0,2.02,1.92
+2019-03-08,Demo 1.31,D. Moreau,A. Novak,0,1.59,2.32
+2019-03-10,Demo 1.32,O. Silva,C. Lindqvist,0,2.22,1.63
+2019-03-12,Demo 1.33,C. Lindqvist,H. Van Dijk,1,1.98,2.04
+2019-03-14,Demo 1.34,A. Novak,B. Ferreira,0,1.87,1.96
+2019-03-16,Demo 1.35,P. Doyle,H. Van Dijk,1,2.17,1.77
+2019-03-18,Demo 1.36,I. Costa,O. Silva,0,1.77,2.13
+2019-03-20,Demo 1.37,P. Doyle,C. Lindqvist,1,2.28,1.6
+2019-03-22,Demo 1.38,K. Mbaye,A. Novak,1,1.91,2.05
+2019-03-24,Demo 1.39,F. O'Connell,A. Novak,0,2.59,1.57
+2019-03-26,Demo 1.40,H. Van Dijk,G. Petrov,1,2.14,1.71
+2019-03-28,Demo 1.41,B. Ferreira,J. Schmidt,0,1.98,1.81
+2019-03-30,Demo 1.42,K. Mbaye,D. Moreau,1,2.04,1.66
+2019-04-01,Demo 1.43,O. Silva,F. O'Connell,1,1.69,2.39
+2019-04-03,Demo 1.44,D. Moreau,B. Ferreira,1,1.64,2.34
+2019-04-05,Demo 1.45,L. Kowalski,O. Silva,1,1.43,3.0
+2019-04-07,Demo 1.46,J. Schmidt,P. Doyle,0,1.53,2.63
+2019-04-09,Demo 1.47,J. Schmidt,O. Silva,1,1.73,2.29
+2019-04-11,Demo 1.48,E. Tanaka,P. Doyle,1,1.59,2.25
+2019-04-13,Demo 1.49,I. Costa,P. Doyle,0,1.62,2.21
+2019-04-15,Demo 1.50,I. Costa,A. Novak,1,1.92,1.98
+2019-04-17,Demo 1.51,I. Costa,C. Lindqvist,1,2.06,1.83
+2019-04-19,Demo 1.52,E. Tanaka,I. Costa,1,1.93,1.87
+2019-04-21,Demo 1.53,N. Berg,C. Lindqvist,0,1.8,1.98
+2019-04-23,Demo 1.54,L. Kowalski,D. Moreau,0,1.76,2.21
+2019-04-25,Demo 1.55,N. Berg,J. Schmidt,1,2.1,1.83
+2019-04-27,Demo 1.56,F. O'Connell,O. Silva,0,2.18,1.53
+2019-04-29,Demo 1.57,N. Berg,M. Rossi,1,2.32,1.65
+2019-05-01,Demo 1.58,M. Rossi,N. Berg,1,1.74,2.16
+2019-05-03,Demo 1.59,O. Silva,F. O'Connell,1,1.55,2.21
+2019-05-05,Demo 1.60,K. Mbaye,E. Tanaka,0,1.71,2.09
+2019-05-07,Demo 1.61,M. Rossi,K. Mbaye,0,1.75,1.94
+2019-05-09,Demo 1.62,F. O'Connell,J. Schmidt,0,2.7,1.45
+2019-05-11,Demo 1.63,N. Berg,F. O'Connell,1,1.52,2.85
+2019-05-13,Demo 1.64,G. Petrov,E. Tanaka,1,1.8,2.08
+2019-05-15,Demo 1.65,G. Petrov,F. O'Connell,0,1.41,2.96
+2019-05-17,Demo 1.66,D. Moreau,L. Kowalski,0,2.28,1.73
+2019-05-19,Demo 1.67,K. Mbaye,G. Petrov,1,2.05,1.9
+2019-05-21,Demo 1.68,F. O'Connell,J. Schmidt,0,2.95,1.43
+2019-05-23,Demo 1.69,J. Schmidt,E. Tanaka,0,1.7,2.06
+2019-05-25,Demo 1.70,G. Petrov,I. Costa,1,1.61,2.28
+2019-05-27,Demo 1.71,F. O'Connell,K. Mbaye,0,2.64,1.5
+2019-05-29,Demo 1.72,H. Van Dijk,K. Mbaye,1,2.13,1.75
+2019-05-31,Demo 1.73,B. Ferreira,D. Moreau,0,2.36,1.72
+2019-06-02,Demo 1.74,G. Petrov,L. Kowalski,0,2.4,1.62
+2019-06-04,Demo 1.75,A. Novak,O. Silva,1,1.79,2.25
+2019-06-06,Demo 1.76,O. Silva,A. Novak,0,2.15,1.7
+2019-06-08,Demo 1.77,E. Tanaka,M. Rossi,0,2.26,1.67
+2019-06-10,Demo 1.78,O. Silva,J. Schmidt,0,2.24,1.65
+2019-06-12,Demo 1.79,O. Silva,P. Doyle,1,1.69,2.03
+2019-06-14,Demo 1.80,I. Costa,M. Rossi,0,2.43,1.6
+2019-06-16,Demo 1.81,O. Silva,B. Ferreira,1,2.25,1.67
+2019-06-18,Demo 1.82,E. Tanaka,D. Moreau,0,2.27,1.59
+2019-06-20,Demo 1.83,N. Berg,G. Petrov,1,1.93,1.78
+2019-06-22,Demo 1.84,A. Novak,N. Berg,0,2.11,1.84
+2019-06-24,Demo 1.85,L. Kowalski,E. Tanaka,0,1.62,2.76
+2019-06-26,Demo 1.86,H. Van Dijk,P. Doyle,1,1.65,2.26
+2019-06-28,Demo 1.87,K. Mbaye,P. Doyle,1,1.57,2.6
+2019-06-30,Demo 1.88,A. Novak,O. Silva,1,1.7,2.2
+2019-07-02,Demo 1.89,N. Berg,C. Lindqvist,1,1.85,2.05
+2019-07-04,Demo 1.90,K. Mbaye,M. Rossi,0,2.15,1.6
+2019-07-06,Demo 1.91,N. Berg,E. Tanaka,0,1.88,1.83
+2019-07-08,Demo 1.92,H. Van Dijk,K. Mbaye,1,2.12,1.72
+2019-07-10,Demo 1.93,A. Novak,D. Moreau,1,2.3,1.56
+2019-07-12,Demo 1.94,G. Petrov,H. Van Dijk,0,1.68,2.26
+2019-07-14,Demo 1.95,D. Moreau,M. Rossi,1,2.08,1.86
+2019-07-16,Demo 1.96,M. Rossi,G. Petrov,0,1.75,1.95
+2019-07-18,Demo 1.97,H. Van Dijk,B. Ferreira,0,2.01,1.82
+2019-07-20,Demo 1.98,B. Ferreira,F. O'Connell,1,1.53,2.61
+2019-07-22,Demo 1.99,K. Mbaye,A. Novak,1,1.86,1.96
+2019-07-24,Demo 1.100,O. Silva,L. Kowalski,0,2.71,1.4
+2019-07-26,Demo 1.101,I. Costa,J. Schmidt,0,2.17,1.87
+2019-07-28,Demo 1.102,I. Costa,F. O'Connell,0,1.51,2.59
+2019-07-30,Demo 1.103,O. Silva,D. Moreau,0,2.82,1.53
+2019-08-01,Demo 1.104,K. Mbaye,C. Lindqvist,1,1.8,2.01
+2019-08-03,Demo 1.105,I. Costa,O. Silva,1,1.78,2.22
+2019-08-05,Demo 1.106,H. Van Dijk,L. Kowalski,0,2.72,1.51
+2019-08-07,Demo 1.107,P. Doyle,K. Mbaye,1,2.68,1.54
+2019-08-09,Demo 1.108,H. Van Dijk,E. Tanaka,0,2.04,1.78
+2019-08-11,Demo 1.109,L. Kowalski,G. Petrov,1,1.62,2.41
+2019-08-13,Demo 1.110,H. Van Dijk,B. Ferreira,0,2.0,1.76
+2019-08-15,Demo 1.111,F. O'Connell,D. Moreau,0,2.71,1.37
+2019-08-17,Demo 1.112,J. Schmidt,B. Ferreira,0,1.81,1.96
+2019-08-19,Demo 1.113,J. Schmidt,A. Novak,1,1.83,1.96
+2019-08-21,Demo 1.114,E. Tanaka,K. Mbaye,0,2.28,1.75
+2019-08-23,Demo 1.115,J. Schmidt,H. Van Dijk,0,1.74,2.09
+2019-08-25,Demo 1.116,D. Moreau,N. Berg,1,1.77,2.19
+2019-08-27,Demo 1.117,B. Ferreira,C. Lindqvist,1,1.85,1.84
+2019-08-29,Demo 1.118,N. Berg,J. Schmidt,0,2.01,2.0
+2019-08-31,Demo 1.119,M. Rossi,H. Van Dijk,1,1.62,2.51
+2019-09-02,Demo 1.120,B. Ferreira,J. Schmidt,0,1.93,1.72
+2019-09-04,Demo 1.121,G. Petrov,E. Tanaka,1,1.76,2.12
+2019-09-06,Demo 1.122,O. Silva,L. Kowalski,0,2.83,1.41
+2019-09-08,Demo 1.123,J. Schmidt,L. Kowalski,1,2.47,1.58
+2019-09-10,Demo 1.124,G. Petrov,P. Doyle,1,1.51,2.5
+2019-09-12,Demo 1.125,I. Costa,N. Berg,0,2.03,1.88
+2019-09-14,Demo 1.126,J. Schmidt,H. Van Dijk,1,1.79,2.23
+2019-09-16,Demo 1.127,I. Costa,P. Doyle,1,1.64,2.17
+2019-09-18,Demo 1.128,I. Costa,A. Novak,1,1.8,1.91
+2019-09-20,Demo 1.129,A. Novak,M. Rossi,1,2.38,1.62
+2019-09-22,Demo 1.130,O. Silva,P. Doyle,1,1.72,2.03
+2019-09-24,Demo 1.131,P. Doyle,B. Ferreira,0,2.3,1.59
+2019-09-26,Demo 1.132,N. Berg,L. Kowalski,0,2.5,1.61
+2019-09-28,Demo 1.133,B. Ferreira,H. Van Dijk,1,1.84,1.92
+2019-09-30,Demo 1.134,A. Novak,K. Mbaye,0,2.11,1.75
+2019-10-02,Demo 1.135,L. Kowalski,J. Schmidt,1,1.64,2.38
+2019-10-04,Demo 1.136,J. Schmidt,H. Van Dijk,0,1.77,2.08
+2019-10-06,Demo 1.137,H. Van Dijk,L. Kowalski,0,2.47,1.39
+2019-10-08,Demo 1.138,D. Moreau,H. Van Dijk,0,1.6,2.45
+2019-10-10,Demo 1.139,J. Schmidt,I. Costa,1,1.84,2.16
+2019-10-12,Demo 1.140,E. Tanaka,G. Petrov,1,2.26,1.79
+2019-10-14,Demo 1.141,E. Tanaka,N. Berg,0,1.95,1.87
+2019-10-16,Demo 1.142,I. Costa,N. Berg,1,2.08,1.91
+2019-10-18,Demo 1.143,P. Doyle,N. Berg,0,2.35,1.61
+2019-10-20,Demo 1.144,O. Silva,P. Doyle,1,1.75,1.92
+2019-10-22,Demo 1.145,M. Rossi,D. Moreau,1,1.99,2.06
+2019-10-24,Demo 1.146,M. Rossi,G. Petrov,0,1.75,2.19
+2019-10-26,Demo 1.147,E. Tanaka,H. Van Dijk,0,1.85,1.99
+2019-10-28,Demo 1.148,O. Silva,B. Ferreira,0,2.34,1.67
+2019-10-30,Demo 1.149,N. Berg,P. Doyle,1,1.58,2.36
+2019-11-01,Demo 1.150,M. Rossi,K. Mbaye,1,1.78,1.99
+2019-11-03,Demo 1.151,M. Rossi,F. O'Connell,1,1.49,3.13
+2019-11-05,Demo 1.152,H. Van Dijk,K. Mbaye,0,2.16,1.67
+2019-11-07,Demo 1.153,C. Lindqvist,G. Petrov,0,2.14,1.7
+2019-11-09,Demo 1.154,J. Schmidt,O. Silva,1,1.62,2.3
+2019-11-11,Demo 1.155,L. Kowalski,F. O'Connell,1,1.38,3.05
+2019-11-13,Demo 1.156,F. O'Connell,B. Ferreira,0,2.73,1.47
+2019-11-15,Demo 1.157,P. Doyle,O. Silva,0,2.07,1.89
+2019-11-17,Demo 1.158,O. Silva,P. Doyle,1,1.82,2.04
+2019-11-19,Demo 1.159,L. Kowalski,J. Schmidt,1,1.45,2.53
+2019-11-21,Demo 1.160,M. Rossi,N. Berg,1,1.69,2.05
+2019-11-23,Demo 1.161,J. Schmidt,L. Kowalski,0,2.14,1.58
+2019-11-25,Demo 1.162,B. Ferreira,O. Silva,1,1.83,2.17
+2019-11-27,Demo 1.163,J. Schmidt,M. Rossi,1,2.3,1.76
+2019-11-29,Demo 1.164,E. Tanaka,K. Mbaye,1,2.09,1.77
+2019-12-01,Demo 1.165,O. Silva,A. Novak,1,2.28,1.71
+2019-12-03,Demo 1.166,F. O'Connell,D. Moreau,0,3.43,1.45
+2019-12-05,Demo 1.167,I. Costa,N. Berg,0,1.9,1.72
+2019-12-07,Demo 1.168,K. Mbaye,M. Rossi,1,2.06,1.75
+2019-12-09,Demo 1.169,H. Van Dijk,N. Berg,0,2.21,1.71
+2019-12-11,Demo 1.170,C. Lindqvist,M. Rossi,0,2.29,1.61
+2019-12-13,Demo 1.171,L. Kowalski,K. Mbaye,1,1.64,2.44
+2019-12-15,Demo 1.172,H. Van Dijk,P. Doyle,1,1.59,2.37
+2019-12-17,Demo 1.173,H. Van Dijk,K. Mbaye,0,2.08,1.73
+2019-12-19,Demo 1.174,E. Tanaka,A. Novak,0,1.93,1.83
+2019-12-21,Demo 1.175,D. Moreau,P. Doyle,1,1.48,2.86
+2019-12-23,Demo 1.176,N. Berg,J. Schmidt,0,1.86,1.84
+2019-12-25,Demo 1.177,D. Moreau,N. Berg,0,1.68,2.1
+2019-12-27,Demo 1.178,O. Silva,H. Van Dijk,0,2.1,1.75
+2019-12-29,Demo 1.179,L. Kowalski,I. Costa,1,1.55,2.65
+2019-12-31,Demo 1.180,O. Silva,B. Ferreira,0,2.27,1.76
+2020-01-02,Demo 2.1,A. Novak,P. Doyle,1,1.65,2.38
+2020-01-04,Demo 2.2,G. Petrov,J. Schmidt,1,1.77,2.06
+2020-01-06,Demo 2.3,E. Tanaka,M. Rossi,0,2.3,1.61
+2020-01-08,Demo 2.4,I. Costa,M. Rossi,1,2.35,1.62
+2020-01-10,Demo 2.5,A. Novak,F. O'Connell,1,1.55,2.56
+2020-01-12,Demo 2.6,N. Berg,I. Costa,1,1.71,2.02
+2020-01-14,Demo 2.7,L. Kowalski,I. Costa,1,1.54,2.77
+2020-01-16,Demo 2.8,J. Schmidt,H. Van Dijk,0,1.55,2.02
+2020-01-18,Demo 2.9,M. Rossi,G. Petrov,0,1.85,2.02
+2020-01-20,Demo 2.10,E. Tanaka,B. Ferreira,1,1.96,2.0
+2020-01-22,Demo 2.11,K. Mbaye,G. Petrov,1,1.95,1.89
+2020-01-24,Demo 2.12,D. Moreau,N. Berg,1,1.63,2.28
+2020-01-26,Demo 2.13,G. Petrov,P. Doyle,1,1.5,2.72
+2020-01-28,Demo 2.14,D. Moreau,F. O'Connell,1,1.44,3.04
+2020-01-30,Demo 2.15,E. Tanaka,K. Mbaye,0,2.09,1.74
+2020-02-01,Demo 2.16,L. Kowalski,M. Rossi,1,1.58,2.06
+2020-02-03,Demo 2.17,K. Mbaye,P. Doyle,1,1.5,2.53
+2020-02-05,Demo 2.18,B. Ferreira,E. Tanaka,0,1.99,1.81
+2020-02-07,Demo 2.19,G. Petrov,C. Lindqvist,1,1.77,2.07
+2020-02-09,Demo 2.20,I. Costa,J. Schmidt,1,2.17,1.74
+2020-02-11,Demo 2.21,A. Novak,J. Schmidt,1,2.1,1.75
+2020-02-13,Demo 2.22,J. Schmidt,O. Silva,1,1.51,2.32
+2020-02-15,Demo 2.23,M. Rossi,B. Ferreira,1,1.56,2.32
+2020-02-17,Demo 2.24,N. Berg,H. Van Dijk,1,1.83,1.98
+2020-02-19,Demo 2.25,C. Lindqvist,O. Silva,1,1.66,2.25
+2020-02-21,Demo 2.26,N. Berg,H. Van Dijk,0,1.79,2.05
+2020-02-23,Demo 2.27,D. Moreau,F. O'Connell,1,1.41,3.18
+2020-02-25,Demo 2.28,B. Ferreira,D. Moreau,0,2.35,1.61
+2020-02-27,Demo 2.29,J. Schmidt,D. Moreau,1,2.37,1.64
+2020-02-29,Demo 2.30,N. Berg,C. Lindqvist,1,1.86,2.02
+2020-03-02,Demo 2.31,L. Kowalski,B. Ferreira,1,1.47,2.62
+2020-03-04,Demo 2.32,K. Mbaye,J. Schmidt,1,1.94,1.89
+2020-03-06,Demo 2.33,J. Schmidt,B. Ferreira,1,1.69,1.95
+2020-03-08,Demo 2.34,L. Kowalski,B. Ferreira,1,1.47,2.48
+2020-03-10,Demo 2.35,M. Rossi,I. Costa,1,1.56,2.3
+2020-03-12,Demo 2.36,C. Lindqvist,I. Costa,0,1.91,1.96
+2020-03-14,Demo 2.37,L. Kowalski,F. O'Connell,1,1.48,2.99
+2020-03-16,Demo 2.38,G. Petrov,C. Lindqvist,1,1.73,2.26
+2020-03-18,Demo 2.39,F. O'Connell,M. Rossi,0,3.03,1.48
+2020-03-20,Demo 2.40,K. Mbaye,N. Berg,0,1.88,1.88
+2020-03-22,Demo 2.41,P. Doyle,H. Van Dijk,0,2.43,1.65
+2020-03-24,Demo 2.42,O. Silva,H. Van Dijk,1,2.18,1.69
+2020-03-26,Demo 2.43,C. Lindqvist,J. Schmidt,0,2.06,1.71
+2020-03-28,Demo 2.44,B. Ferreira,H. Van Dijk,0,1.91,1.97
+2020-03-30,Demo 2.45,P. Doyle,I. Costa,1,2.27,1.59
+2020-04-01,Demo 2.46,C. Lindqvist,I. Costa,0,1.76,1.92
+2020-04-03,Demo 2.47,O. Silva,I. Costa,0,2.16,1.72
+2020-04-05,Demo 2.48,K. Mbaye,P. Doyle,1,1.51,2.73
+2020-04-07,Demo 2.49,C. Lindqvist,F. O'Connell,1,1.47,2.63
+2020-04-09,Demo 2.50,E. Tanaka,F. O'Connell,1,1.57,2.88
+2020-04-11,Demo 2.51,J. Schmidt,K. Mbaye,0,2.04,1.8
+2020-04-13,Demo 2.52,M. Rossi,K. Mbaye,0,1.7,2.24
+2020-04-15,Demo 2.53,C. Lindqvist,K. Mbaye,1,2.16,1.83
+2020-04-17,Demo 2.54,K. Mbaye,M. Rossi,0,2.1,1.7
+2020-04-19,Demo 2.55,C. Lindqvist,E. Tanaka,0,1.93,1.83
+2020-04-21,Demo 2.56,B. Ferreira,K. Mbaye,1,2.09,1.78
+2020-04-23,Demo 2.57,M. Rossi,C. Lindqvist,0,1.55,2.26
+2020-04-25,Demo 2.58,O. Silva,A. Novak,0,2.23,1.72
+2020-04-27,Demo 2.59,O. Silva,J. Schmidt,0,2.16,1.66
+2020-04-29,Demo 2.60,P. Doyle,O. Silva,0,2.19,1.68
+2020-05-01,Demo 2.61,O. Silva,H. Van Dijk,0,2.31,1.76
+2020-05-03,Demo 2.62,G. Petrov,M. Rossi,0,2.04,1.79
+2020-05-05,Demo 2.63,P. Doyle,N. Berg,0,2.27,1.58
+2020-05-07,Demo 2.64,C. Lindqvist,M. Rossi,1,2.42,1.61
+2020-05-09,Demo 2.65,N. Berg,B. Ferreira,1,1.8,2.05
+2020-05-11,Demo 2.66,B. Ferreira,G. Petrov,0,2.12,1.53
+2020-05-13,Demo 2.67,L. Kowalski,D. Moreau,0,1.7,2.23
+2020-05-15,Demo 2.68,E. Tanaka,A. Novak,1,1.84,2.02
+2020-05-17,Demo 2.69,E. Tanaka,M. Rossi,1,2.41,1.59
+2020-05-19,Demo 2.70,E. Tanaka,I. Costa,0,1.93,2.0
+2020-05-21,Demo 2.71,J. Schmidt,D. Moreau,0,2.16,1.67
+2020-05-23,Demo 2.72,D. Moreau,N. Berg,0,1.69,2.2
+2020-05-25,Demo 2.73,H. Van Dijk,L. Kowalski,0,2.5,1.5
+2020-05-27,Demo 2.74,C. Lindqvist,I. Costa,0,1.78,1.91
+2020-05-29,Demo 2.75,A. Novak,G. Petrov,0,2.15,1.8
+2020-05-31,Demo 2.76,L. Kowalski,M. Rossi,1,1.71,2.02
+2020-06-02,Demo 2.77,D. Moreau,M. Rossi,1,1.95,1.97
+2020-06-04,Demo 2.78,F. O'Connell,N. Berg,0,2.94,1.46
+2020-06-06,Demo 2.79,F. O'Connell,M. Rossi,0,2.69,1.4
+2020-06-08,Demo 2.80,G. Petrov,O. Silva,1,1.51,2.5
+2020-06-10,Demo 2.81,P. Doyle,E. Tanaka,1,2.31,1.59
+2020-06-12,Demo 2.82,K. Mbaye,E. Tanaka,1,1.86,1.94
+2020-06-14,Demo 2.83,O. Silva,P. Doyle,1,1.81,2.06
+2020-06-16,Demo 2.84,I. Costa,M. Rossi,1,2.45,1.58
+2020-06-18,Demo 2.85,F. O'Connell,I. Costa,0,2.48,1.54
+2020-06-20,Demo 2.86,N. Berg,C. Lindqvist,0,1.82,1.99
+2020-06-22,Demo 2.87,L. Kowalski,J. Schmidt,0,1.57,2.38
+2020-06-24,Demo 2.88,M. Rossi,F. O'Connell,1,1.42,2.98
+2020-06-26,Demo 2.89,A. Novak,C. Lindqvist,1,2.02,1.85
+2020-06-28,Demo 2.90,L. Kowalski,F. O'Connell,1,1.45,3.11
+2020-06-30,Demo 2.91,O. Silva,F. O'Connell,1,1.57,2.39
+2020-07-02,Demo 2.92,I. Costa,D. Moreau,0,2.29,1.59
+2020-07-04,Demo 2.93,M. Rossi,O. Silva,1,1.52,3.14
+2020-07-06,Demo 2.94,J. Schmidt,L. Kowalski,0,2.49,1.57
+2020-07-08,Demo 2.95,C. Lindqvist,H. Van Dijk,0,1.74,1.9
+2020-07-10,Demo 2.96,K. Mbaye,P. Doyle,1,1.47,2.46
+2020-07-12,Demo 2.97,J. Schmidt,N. Berg,0,1.81,1.87
+2020-07-14,Demo 2.98,H. Van Dijk,B. Ferreira,0,1.93,1.92
+2020-07-16,Demo 2.99,P. Doyle,A. Novak,0,2.23,1.58
+2020-07-18,Demo 2.100,C. Lindqvist,B. Ferreira,1,1.77,1.93
+2020-07-20,Demo 2.101,N. Berg,M. Rossi,1,2.1,1.71
+2020-07-22,Demo 2.102,O. Silva,K. Mbaye,0,2.24,1.52
+2020-07-24,Demo 2.103,F. O'Connell,M. Rossi,0,2.92,1.4
+2020-07-26,Demo 2.104,E. Tanaka,P. Doyle,1,1.64,2.19
+2020-07-28,Demo 2.105,L. Kowalski,I. Costa,1,1.57,2.71
+2020-07-30,Demo 2.106,E. Tanaka,K. Mbaye,1,2.18,1.78
+2020-08-01,Demo 2.107,F. O'Connell,J. Schmidt,0,2.72,1.49
+2020-08-03,Demo 2.108,B. Ferreira,N. Berg,0,1.87,1.71
+2020-08-05,Demo 2.109,I. Costa,K. Mbaye,0,2.01,1.61
+2020-08-07,Demo 2.110,J. Schmidt,K. Mbaye,0,2.11,1.84
+2020-08-09,Demo 2.111,M. Rossi,E. Tanaka,1,1.6,2.4
+2020-08-11,Demo 2.112,K. Mbaye,J. Schmidt,1,1.82,2.01
+2020-08-13,Demo 2.113,L. Kowalski,G. Petrov,1,1.58,2.37
+2020-08-15,Demo 2.114,I. Costa,H. Van Dijk,1,1.83,1.89
+2020-08-17,Demo 2.115,M. Rossi,N. Berg,0,1.73,2.12
+2020-08-19,Demo 2.116,K. Mbaye,D. Moreau,0,2.25,1.72
+2020-08-21,Demo 2.117,P. Doyle,O. Silva,0,2.02,1.99
+2020-08-23,Demo 2.118,G. Petrov,J. Schmidt,1,1.74,1.97
+2020-08-25,Demo 2.119,P. Doyle,E. Tanaka,0,2.4,1.54
+2020-08-27,Demo 2.120,M. Rossi,F. O'Connell,1,1.37,2.81
+2020-08-29,Demo 2.121,L. Kowalski,I. Costa,1,1.46,2.87
+2020-08-31,Demo 2.122,D. Moreau,C. Lindqvist,0,1.7,2.19
+2020-09-02,Demo 2.123,K. Mbaye,I. Costa,1,1.77,2.24
+2020-09-04,Demo 2.124,B. Ferreira,A. Novak,1,1.96,1.82
+2020-09-06,Demo 2.125,O. Silva,C. Lindqvist,0,2.29,1.7
+2020-09-08,Demo 2.126,J. Schmidt,P. Doyle,1,1.52,2.62
+2020-09-10,Demo 2.127,J. Schmidt,H. Van Dijk,0,1.81,1.97
+2020-09-12,Demo 2.128,A. Novak,J. Schmidt,0,1.89,1.82
+2020-09-14,Demo 2.129,H. Van Dijk,L. Kowalski,0,2.56,1.51
+2020-09-16,Demo 2.130,M. Rossi,C. Lindqvist,0,1.63,2.15
+2020-09-18,Demo 2.131,D. Moreau,P. Doyle,1,1.46,2.79
+2020-09-20,Demo 2.132,P. Doyle,N. Berg,0,2.5,1.63
+2020-09-22,Demo 2.133,G. Petrov,I. Costa,1,1.62,2.19
+2020-09-24,Demo 2.134,K. Mbaye,I. Costa,1,1.72,2.28
+2020-09-26,Demo 2.135,I. Costa,J. Schmidt,1,2.04,1.82
+2020-09-28,Demo 2.136,J. Schmidt,M. Rossi,1,2.13,1.61
+2020-09-30,Demo 2.137,K. Mbaye,H. Van Dijk,0,1.6,2.15
+2020-10-02,Demo 2.138,M. Rossi,O. Silva,0,1.46,2.96
+2020-10-04,Demo 2.139,E. Tanaka,P. Doyle,1,1.57,2.21
+2020-10-06,Demo 2.140,P. Doyle,D. Moreau,0,3.14,1.49
+2020-10-08,Demo 2.141,I. Costa,C. Lindqvist,1,1.87,1.72
+2020-10-10,Demo 2.142,H. Van Dijk,K. Mbaye,1,2.08,1.68
+2020-10-12,Demo 2.143,P. Doyle,B. Ferreira,0,2.38,1.58
+2020-10-14,Demo 2.144,P. Doyle,H. Van Dijk,0,2.27,1.69
+2020-10-16,Demo 2.145,J. Schmidt,K. Mbaye,0,1.91,1.84
+2020-10-18,Demo 2.146,B. Ferreira,O. Silva,0,1.8,2.09
+2020-10-20,Demo 2.147,B. Ferreira,N. Berg,0,1.98,1.65
+2020-10-22,Demo 2.148,B. Ferreira,A. Novak,1,2.07,2.0
+2020-10-24,Demo 2.149,K. Mbaye,E. Tanaka,1,1.73,2.04
+2020-10-26,Demo 2.150,O. Silva,E. Tanaka,1,2.16,1.66
+2020-10-28,Demo 2.151,O. Silva,K. Mbaye,0,2.31,1.57
+2020-10-30,Demo 2.152,G. Petrov,C. Lindqvist,0,1.77,2.19
+2020-11-01,Demo 2.153,N. Berg,I. Costa,1,1.72,1.96
+2020-11-03,Demo 2.154,H. Van Dijk,A. Novak,1,1.95,1.74
+2020-11-05,Demo 2.155,K. Mbaye,E. Tanaka,1,1.8,2.12
+2020-11-07,Demo 2.156,D. Moreau,H. Van Dijk,1,1.64,2.31
+2020-11-09,Demo 2.157,J. Schmidt,L. Kowalski,0,2.26,1.59
+2020-11-11,Demo 2.158,E. Tanaka,H. Van Dijk,1,1.85,2.09
+2020-11-13,Demo 2.159,N. Berg,L. Kowalski,0,2.47,1.58
+2020-11-15,Demo 2.160,H. Van Dijk,K. Mbaye,0,2.12,1.73
+2020-11-17,Demo 2.161,O. Silva,I. Costa,0,2.19,1.64
+2020-11-19,Demo 2.162,G. Petrov,J. Schmidt,1,1.75,1.87
+2020-11-21,Demo 2.163,O. Silva,B. Ferreira,0,2.33,1.64
+2020-11-23,Demo 2.164,B. Ferreira,H. Van Dijk,1,1.95,1.9
+2020-11-25,Demo 2.165,O. Silva,K. Mbaye,0,2.58,1.55
+2020-11-27,Demo 2.166,C. Lindqvist,A. Novak,1,1.92,2.02
+2020-11-29,Demo 2.167,B. Ferreira,O. Silva,1,1.81,2.19
+2020-12-01,Demo 2.168,E. Tanaka,M. Rossi,0,2.33,1.79
+2020-12-03,Demo 2.169,L. Kowalski,O. Silva,0,1.39,2.99
+2020-12-05,Demo 2.170,E. Tanaka,K. Mbaye,0,1.88,1.63
+2020-12-07,Demo 2.171,M. Rossi,I. Costa,0,1.51,2.33
+2020-12-09,Demo 2.172,O. Silva,K. Mbaye,0,2.5,1.56
+2020-12-11,Demo 2.173,H. Van Dijk,D. Moreau,1,2.37,1.52
+2020-12-13,Demo 2.174,B. Ferreira,M. Rossi,0,2.53,1.71
+2020-12-15,Demo 2.175,A. Novak,D. Moreau,1,2.28,1.69
+2020-12-17,Demo 2.176,B. Ferreira,D. Moreau,0,2.41,1.58
+2020-12-19,Demo 2.177,G. Petrov,M. Rossi,0,2.08,1.8
+2020-12-21,Demo 2.178,K. Mbaye,J. Schmidt,0,1.89,2.02
+2020-12-23,Demo 2.179,J. Schmidt,O. Silva,1,1.55,2.34
+2020-12-25,Demo 2.180,F. O'Connell,K. Mbaye,0,2.78,1.47
+2020-12-27,Demo 3.1,L. Kowalski,K. Mbaye,1,1.68,2.43
+2020-12-29,Demo 3.2,M. Rossi,C. Lindqvist,0,1.75,2.25
+2020-12-31,Demo 3.3,J. Schmidt,N. Berg,0,2.05,2.11
+2021-01-02,Demo 3.4,E. Tanaka,G. Petrov,1,2.09,1.64
+2021-01-04,Demo 3.5,O. Silva,N. Berg,0,2.23,1.56
+2021-01-06,Demo 3.6,B. Ferreira,N. Berg,1,2.0,1.88
+2021-01-08,Demo 3.7,G. Petrov,H. Van Dijk,1,1.56,2.14
+2021-01-10,Demo 3.8,G. Petrov,L. Kowalski,1,2.2,1.62
+2021-01-12,Demo 3.9,H. Van Dijk,L. Kowalski,0,2.67,1.58
+2021-01-14,Demo 3.10,M. Rossi,H. Van Dijk,1,1.62,2.3
+2021-01-16,Demo 3.11,P. Doyle,H. Van Dijk,0,2.11,1.57
+2021-01-18,Demo 3.12,L. Kowalski,F. O'Connell,1,1.42,3.05
+2021-01-20,Demo 3.13,E. Tanaka,A. Novak,0,1.74,1.95
+2021-01-22,Demo 3.14,K. Mbaye,D. Moreau,0,2.08,1.79
+2021-01-24,Demo 3.15,K. Mbaye,E. Tanaka,0,1.84,2.08
+2021-01-26,Demo 3.16,L. Kowalski,C. Lindqvist,1,1.55,2.57
+2021-01-28,Demo 3.17,B. Ferreira,I. Costa,0,1.86,1.99
+2021-01-30,Demo 3.18,N. Berg,C. Lindqvist,0,1.8,1.88
+2021-02-01,Demo 3.19,A. Novak,D. Moreau,0,2.33,1.65
+2021-02-03,Demo 3.20,P. Doyle,K. Mbaye,0,2.37,1.53
+2021-02-05,Demo 3.21,A. Novak,P. Doyle,0,1.62,2.15
+2021-02-07,Demo 3.22,N. Berg,M. Rossi,0,2.08,1.58
+2021-02-09,Demo 3.23,E. Tanaka,D. Moreau,0,2.19,1.62
+2021-02-11,Demo 3.24,L. Kowalski,G. Petrov,1,1.61,2.16
+2021-02-13,Demo 3.25,J. Schmidt,K. Mbaye,0,1.99,1.87
+2021-02-15,Demo 3.26,M. Rossi,G. Petrov,1,1.87,2.04
+2021-02-17,Demo 3.27,F. O'Connell,B. Ferreira,0,2.56,1.61
+2021-02-19,Demo 3.28,D. Moreau,O. Silva,1,1.47,2.59
+2021-02-21,Demo 3.29,P. Doyle,E. Tanaka,0,2.33,1.55
+2021-02-23,Demo 3.30,B. Ferreira,C. Lindqvist,0,2.01,1.72
+2021-02-25,Demo 3.31,E. Tanaka,M. Rossi,0,2.49,1.65
+2021-02-27,Demo 3.32,M. Rossi,K. Mbaye,0,1.79,1.98
+2021-03-01,Demo 3.33,E. Tanaka,M. Rossi,0,2.31,1.61
+2021-03-03,Demo 3.34,N. Berg,D. Moreau,0,2.29,1.6
+2021-03-05,Demo 3.35,M. Rossi,P. Doyle,1,1.41,2.82
+2021-03-07,Demo 3.36,M. Rossi,G. Petrov,1,1.83,2.1
+2021-03-09,Demo 3.37,J. Schmidt,M. Rossi,1,2.13,1.78
+2021-03-11,Demo 3.38,E. Tanaka,L. Kowalski,0,2.59,1.5
+2021-03-13,Demo 3.39,J. Schmidt,H. Van Dijk,1,1.71,2.05
+2021-03-15,Demo 3.40,N. Berg,B. Ferreira,1,1.81,2.01
+2021-03-17,Demo 3.41,K. Mbaye,N. Berg,1,1.81,1.82
+2021-03-19,Demo 3.42,H. Van Dijk,J. Schmidt,0,2.11,1.79
+2021-03-21,Demo 3.43,I. Costa,E. Tanaka,1,1.9,1.88
+2021-03-23,Demo 3.44,C. Lindqvist,F. O'Connell,1,1.5,2.41
+2021-03-25,Demo 3.45,G. Petrov,H. Van Dijk,0,1.65,2.27
+2021-03-27,Demo 3.46,K. Mbaye,H. Van Dijk,1,1.67,2.34
+2021-03-29,Demo 3.47,E. Tanaka,P. Doyle,1,1.49,2.47
+2021-03-31,Demo 3.48,K. Mbaye,E. Tanaka,0,1.88,2.27
+2021-04-02,Demo 3.49,H. Van Dijk,F. O'Connell,1,1.47,2.4
+2021-04-04,Demo 3.50,F. O'Connell,K. Mbaye,0,2.51,1.45
+2021-04-06,Demo 3.51,G. Petrov,H. Van Dijk,1,1.8,2.1
+2021-04-08,Demo 3.52,P. Doyle,C. Lindqvist,0,2.35,1.52
+2021-04-10,Demo 3.53,N. Berg,M. Rossi,0,2.1,1.77
+2021-04-12,Demo 3.54,N. Berg,I. Costa,1,1.68,2.09
+2021-04-14,Demo 3.55,C. Lindqvist,B. Ferreira,1,1.99,1.95
+2021-04-16,Demo 3.56,M. Rossi,P. Doyle,1,1.46,2.79
+2021-04-18,Demo 3.57,D. Moreau,E. Tanaka,1,1.53,2.35
+2021-04-20,Demo 3.58,L. Kowalski,G. Petrov,1,1.65,2.48
+2021-04-22,Demo 3.59,E. Tanaka,F. O'Connell,1,1.51,2.53
+2021-04-24,Demo 3.60,E. Tanaka,F. O'Connell,1,1.54,2.56
+2021-04-26,Demo 3.61,P. Doyle,F. O'Connell,0,1.71,2.17
+2021-04-28,Demo 3.62,D. Moreau,A. Novak,0,1.66,2.47
+2021-04-30,Demo 3.63,F. O'Connell,O. Silva,1,2.29,1.6
+2021-05-02,Demo 3.64,O. Silva,D. Moreau,0,2.68,1.52
+2021-05-04,Demo 3.65,N. Berg,G. Petrov,1,1.99,1.87
+2021-05-06,Demo 3.66,G. Petrov,D. Moreau,1,2.13,1.88
+2021-05-08,Demo 3.67,D. Moreau,M. Rossi,1,1.92,1.99
+2021-05-10,Demo 3.68,P. Doyle,I. Costa,0,2.34,1.58
+2021-05-12,Demo 3.69,M. Rossi,J. Schmidt,1,1.66,2.1
+2021-05-14,Demo 3.70,J. Schmidt,O. Silva,1,1.59,2.3
+2021-05-16,Demo 3.71,D. Moreau,P. Doyle,1,1.44,2.9
+2021-05-18,Demo 3.72,E. Tanaka,J. Schmidt,1,1.97,1.72
+2021-05-20,Demo 3.73,F. O'Connell,I. Costa,1,2.45,1.49
+2021-05-22,Demo 3.74,L. Kowalski,A. Novak,1,1.5,2.43
+2021-05-24,Demo 3.75,P. Doyle,G. Petrov,0,2.71,1.53
+2021-05-26,Demo 3.76,A. Novak,M. Rossi,0,2.32,1.58
+2021-05-28,Demo 3.77,J. Schmidt,C. Lindqvist,0,1.9,2.12
+2021-05-30,Demo 3.78,D. Moreau,E. Tanaka,0,1.59,2.42
+2021-06-01,Demo 3.79,B. Ferreira,M. Rossi,0,2.46,1.54
+2021-06-03,Demo 3.80,H. Van Dijk,E. Tanaka,0,1.91,1.83
+2021-06-05,Demo 3.81,C. Lindqvist,H. Van Dijk,0,1.87,1.94
+2021-06-07,Demo 3.82,L. Kowalski,N. Berg,1,1.59,2.49
+2021-06-09,Demo 3.83,E. Tanaka,M. Rossi,1,2.22,1.66
+2021-06-11,Demo 3.84,F. O'Connell,P. Doyle,0,2.17,1.64
+2021-06-13,Demo 3.85,D. Moreau,C. Lindqvist,0,1.64,2.1
+2021-06-15,Demo 3.86,E. Tanaka,L. Kowalski,0,2.55,1.45
+2021-06-17,Demo 3.87,H. Van Dijk,M. Rossi,1,2.47,1.65
+2021-06-19,Demo 3.88,M. Rossi,H. Van Dijk,1,1.57,2.58
+2021-06-21,Demo 3.89,M. Rossi,I. Costa,0,1.69,2.47
+2021-06-23,Demo 3.90,A. Novak,N. Berg,0,2.04,1.92
+2021-06-25,Demo 3.91,O. Silva,K. Mbaye,1,2.49,1.62
+2021-06-27,Demo 3.92,N. Berg,P. Doyle,1,1.56,2.25
+2021-06-29,Demo 3.93,K. Mbaye,I. Costa,1,1.77,2.2
+2021-07-01,Demo 3.94,B. Ferreira,A. Novak,1,1.9,1.98
+2021-07-03,Demo 3.95,D. Moreau,O. Silva,1,1.54,2.53
+2021-07-05,Demo 3.96,E. Tanaka,O. Silva,1,1.61,2.02
+2021-07-07,Demo 3.97,I. Costa,B. Ferreira,1,1.97,1.85
+2021-07-09,Demo 3.98,M. Rossi,K. Mbaye,1,1.75,2.17
+2021-07-11,Demo 3.99,C. Lindqvist,L. Kowalski,1,2.49,1.57
+2021-07-13,Demo 3.100,O. Silva,A. Novak,1,2.22,1.66
+2021-07-15,Demo 3.101,N. Berg,L. Kowalski,0,2.4,1.57
+2021-07-17,Demo 3.102,K. Mbaye,F. O'Connell,0,1.41,2.55
+2021-07-19,Demo 3.103,E. Tanaka,K. Mbaye,0,2.08,1.67
+2021-07-21,Demo 3.104,O. Silva,F. O'Connell,0,1.66,2.33
+2021-07-23,Demo 3.105,N. Berg,J. Schmidt,1,2.06,1.81
+2021-07-25,Demo 3.106,M. Rossi,F. O'Connell,0,1.43,2.79
+2021-07-27,Demo 3.107,I. Costa,K. Mbaye,0,2.06,1.82
+2021-07-29,Demo 3.108,A. Novak,N. Berg,0,1.98,1.83
+2021-07-31,Demo 3.109,G. Petrov,L. Kowalski,0,2.22,1.61
+2021-08-02,Demo 3.110,M. Rossi,B. Ferreira,1,1.63,2.35
+2021-08-04,Demo 3.111,A. Novak,F. O'Connell,0,1.52,2.7
+2021-08-06,Demo 3.112,F. O'Connell,M. Rossi,0,2.81,1.42
+2021-08-08,Demo 3.113,C. Lindqvist,A. Novak,1,1.87,1.9
+2021-08-10,Demo 3.114,N. Berg,G. Petrov,0,1.92,1.77
+2021-08-12,Demo 3.115,E. Tanaka,P. Doyle,0,1.59,2.28
+2021-08-14,Demo 3.116,K. Mbaye,G. Petrov,0,1.94,1.97
+2021-08-16,Demo 3.117,C. Lindqvist,E. Tanaka,0,2.02,1.88
+2021-08-18,Demo 3.118,N. Berg,B. Ferreira,1,1.84,2.08
+2021-08-20,Demo 3.119,F. O'Connell,B. Ferreira,1,2.56,1.56
+2021-08-22,Demo 3.120,I. Costa,C. Lindqvist,1,1.95,2.02
+2021-08-24,Demo 3.121,D. Moreau,M. Rossi,1,1.93,1.99
+2021-08-26,Demo 3.122,C. Lindqvist,H. Van Dijk,1,1.89,1.9
+2021-08-28,Demo 3.123,F. O'Connell,P. Doyle,0,2.01,1.73
+2021-08-30,Demo 3.124,A. Novak,P. Doyle,0,1.59,2.34
+2021-09-01,Demo 3.125,L. Kowalski,G. Petrov,0,1.63,2.13
+2021-09-03,Demo 3.126,N. Berg,D. Moreau,1,2.34,1.64
+2021-09-05,Demo 3.127,I. Costa,N. Berg,0,2.02,1.74
+2021-09-07,Demo 3.128,B. Ferreira,G. Petrov,1,2.23,1.7
+2021-09-09,Demo 3.129,J. Schmidt,F. O'Connell,1,1.45,2.76
+2021-09-11,Demo 3.130,H. Van Dijk,P. Doyle,1,1.47,2.34
+2021-09-13,Demo 3.131,G. Petrov,L. Kowalski,1,2.43,1.56
+2021-09-15,Demo 3.132,H. Van Dijk,I. Costa,1,1.85,2.02
+2021-09-17,Demo 3.133,K. Mbaye,A. Novak,0,1.82,2.1
+2021-09-19,Demo 3.134,H. Van Dijk,G. Petrov,0,1.92,1.61
+2021-09-21,Demo 3.135,I. Costa,B. Ferreira,0,1.91,2.03
+2021-09-23,Demo 3.136,O. Silva,L. Kowalski,1,2.73,1.43
+2021-09-25,Demo 3.137,M. Rossi,B. Ferreira,1,1.63,2.25
+2021-09-27,Demo 3.138,K. Mbaye,O. Silva,0,1.61,2.59
+2021-09-29,Demo 3.139,K. Mbaye,H. Van Dijk,1,1.69,2.12
+2021-10-01,Demo 3.140,E. Tanaka,B. Ferreira,1,1.96,1.91
+2021-10-03,Demo 3.141,L. Kowalski,M. Rossi,1,1.66,2.11
+2021-10-05,Demo 3.142,J. Schmidt,N. Berg,0,1.95,1.94
+2021-10-07,Demo 3.143,K. Mbaye,C. Lindqvist,1,1.74,2.21
+2021-10-09,Demo 3.144,I. Costa,N. Berg,0,1.97,1.76
+2021-10-11,Demo 3.145,O. Silva,I. Costa,0,2.23,1.69
+2021-10-13,Demo 3.146,A. Novak,P. Doyle,0,1.58,2.34
+2021-10-15,Demo 3.147,M. Rossi,F. O'Connell,1,1.52,3.25
+2021-10-17,Demo 3.148,C. Lindqvist,A. Novak,0,1.86,1.82
+2021-10-19,Demo 3.149,E. Tanaka,B. Ferreira,1,1.97,1.84
+2021-10-21,Demo 3.150,F. O'Connell,O. Silva,0,2.23,1.69
+2021-10-23,Demo 3.151,A. Novak,G. Petrov,1,2.19,1.7
+2021-10-25,Demo 3.152,E. Tanaka,A. Novak,0,1.98,1.99
+2021-10-27,Demo 3.153,P. Doyle,G. Petrov,1,2.69,1.55
+2021-10-29,Demo 3.154,H. Van Dijk,K. Mbaye,0,2.16,1.72
+2021-10-31,Demo 3.155,M. Rossi,P. Doyle,1,1.52,2.83
+2021-11-02,Demo 3.156,K. Mbaye,G. Petrov,1,1.85,1.85
+2021-11-04,Demo 3.157,A. Novak,O. Silva,0,1.73,2.29
+2021-11-06,Demo 3.158,H. Van Dijk,C. Lindqvist,1,2.01,1.89
+2021-11-08,Demo 3.159,B. Ferreira,M. Rossi,0,2.32,1.6
+2021-11-10,Demo 3.160,F. O'Connell,C. Lindqvist,0,2.69,1.44
+2021-11-12,Demo 3.161,L. Kowalski,O. Silva,1,1.48,2.88
+2021-11-14,Demo 3.162,G. Petrov,N. Berg,0,1.76,2.08
+2021-11-16,Demo 3.163,J. Schmidt,C. Lindqvist,1,1.81,1.99
+2021-11-18,Demo 3.164,A. Novak,F. O'Connell,0,1.5,2.51
+2021-11-20,Demo 3.165,F. O'Connell,O. Silva,1,2.51,1.58
+2021-11-22,Demo 3.166,E. Tanaka,M. Rossi,1,2.4,1.64
+2021-11-24,Demo 3.167,C. Lindqvist,F. O'Connell,1,1.58,2.66
+2021-11-26,Demo 3.168,F. O'Connell,L. Kowalski,0,2.88,1.5
+2021-11-28,Demo 3.169,K. Mbaye,C. Lindqvist,0,1.85,2.13
+2021-11-30,Demo 3.170,F. O'Connell,G. Petrov,0,2.81,1.47
+2021-12-02,Demo 3.171,A. Novak,L. Kowalski,0,2.6,1.51
+2021-12-04,Demo 3.172,K. Mbaye,O. Silva,0,1.64,2.51
+2021-12-06,Demo 3.173,D. Moreau,O. Silva,1,1.5,2.69
+2021-12-08,Demo 3.174,C. Lindqvist,N. Berg,0,2.13,1.93
+2021-12-10,Demo 3.175,O. Silva,A. Novak,1,2.12,1.68
+2021-12-12,Demo 3.176,A. Novak,P. Doyle,1,1.62,2.68
+2021-12-14,Demo 3.177,N. Berg,H. Van Dijk,1,1.8,2.01
+2021-12-16,Demo 3.178,H. Van Dijk,C. Lindqvist,0,1.97,1.86
+2021-12-18,Demo 3.179,A. Novak,F. O'Connell,1,1.49,2.52
+2021-12-20,Demo 3.180,C. Lindqvist,I. Costa,0,1.8,1.96
+2021-12-22,Demo 4.1,P. Doyle,L. Kowalski,0,2.81,1.4
+2021-12-24,Demo 4.2,D. Moreau,F. O'Connell,1,1.4,2.66
+2021-12-26,Demo 4.3,I. Costa,K. Mbaye,1,2.05,1.85
+2021-12-28,Demo 4.4,E. Tanaka,A. Novak,1,1.96,1.88
+2021-12-30,Demo 4.5,P. Doyle,D. Moreau,0,2.67,1.41
+2022-01-01,Demo 4.6,D. Moreau,E. Tanaka,0,1.74,2.27
+2022-01-03,Demo 4.7,I. Costa,B. Ferreira,1,1.99,1.92
+2022-01-05,Demo 4.8,B. Ferreira,E. Tanaka,1,1.94,1.75
+2022-01-07,Demo 4.9,B. Ferreira,C. Lindqvist,1,2.06,1.93
+2022-01-09,Demo 4.10,H. Van Dijk,I. Costa,1,2.0,1.83
+2022-01-11,Demo 4.11,P. Doyle,J. Schmidt,1,2.57,1.49
+2022-01-13,Demo 4.12,E. Tanaka,B. Ferreira,0,2.08,1.87
+2022-01-15,Demo 4.13,F. O'Connell,D. Moreau,0,2.98,1.38
+2022-01-17,Demo 4.14,E. Tanaka,N. Berg,0,2.07,1.71
+2022-01-19,Demo 4.15,C. Lindqvist,B. Ferreira,1,1.83,1.95
+2022-01-21,Demo 4.16,A. Novak,M. Rossi,0,2.48,1.68
+2022-01-23,Demo 4.17,D. Moreau,G. Petrov,1,1.69,2.04
+2022-01-25,Demo 4.18,D. Moreau,J. Schmidt,0,1.66,2.41
+2022-01-27,Demo 4.19,L. Kowalski,O. Silva,1,1.42,2.83
+2022-01-29,Demo 4.20,I. Costa,G. Petrov,1,2.3,1.76
+2022-01-31,Demo 4.21,B. Ferreira,G. Petrov,1,2.2,1.71
+2022-02-02,Demo 4.22,L. Kowalski,A. Novak,1,1.51,2.68
+2022-02-04,Demo 4.23,P. Doyle,N. Berg,0,2.52,1.47
+2022-02-06,Demo 4.24,O. Silva,M. Rossi,0,2.61,1.46
+2022-02-08,Demo 4.25,C. Lindqvist,D. Moreau,0,2.22,1.69
+2022-02-10,Demo 4.26,L. Kowalski,N. Berg,1,1.56,2.48
+2022-02-12,Demo 4.27,M. Rossi,C. Lindqvist,1,1.7,2.19
+2022-02-14,Demo 4.28,G. Petrov,N. Berg,1,1.79,2.0
+2022-02-16,Demo 4.29,L. Kowalski,P. Doyle,1,1.38,3.24
+2022-02-18,Demo 4.30,A. Novak,D. Moreau,0,2.39,1.63
+2022-02-20,Demo 4.31,P. Doyle,J. Schmidt,0,2.51,1.56
+2022-02-22,Demo 4.32,C. Lindqvist,E. Tanaka,1,1.77,1.87
+2022-02-24,Demo 4.33,G. Petrov,N. Berg,1,1.77,2.07
+2022-02-26,Demo 4.34,A. Novak,H. Van Dijk,0,1.91,2.05
+2022-02-28,Demo 4.35,A. Novak,D. Moreau,0,2.14,1.54
+2022-03-02,Demo 4.36,N. Berg,O. Silva,1,1.64,2.26
+2022-03-04,Demo 4.37,O. Silva,E. Tanaka,0,2.39,1.62
+2022-03-06,Demo 4.38,L. Kowalski,I. Costa,1,1.54,2.67
+2022-03-08,Demo 4.39,D. Moreau,H. Van Dijk,1,1.52,2.33
+2022-03-10,Demo 4.40,J. Schmidt,D. Moreau,1,2.17,1.82
+2022-03-12,Demo 4.41,M. Rossi,K. Mbaye,1,1.71,2.19
+2022-03-14,Demo 4.42,N. Berg,G. Petrov,1,1.89,1.79
+2022-03-16,Demo 4.43,G. Petrov,F. O'Connell,1,1.48,2.7
+2022-03-18,Demo 4.44,L. Kowalski,I. Costa,1,1.47,2.42
+2022-03-20,Demo 4.45,F. O'Connell,E. Tanaka,0,2.54,1.48
+2022-03-22,Demo 4.46,F. O'Connell,K. Mbaye,0,2.8,1.49
+2022-03-24,Demo 4.47,H. Van Dijk,L. Kowalski,0,2.73,1.54
+2022-03-26,Demo 4.48,O. Silva,N. Berg,1,2.18,1.59
+2022-03-28,Demo 4.49,C. Lindqvist,H. Van Dijk,0,1.89,2.03
+2022-03-30,Demo 4.50,B. Ferreira,N. Berg,0,2.0,1.76
+2022-04-01,Demo 4.51,N. Berg,J. Schmidt,1,2.06,1.87
+2022-04-03,Demo 4.52,C. Lindqvist,H. Van Dijk,1,1.78,1.98
+2022-04-05,Demo 4.53,B. Ferreira,A. Novak,0,1.9,1.93
+2022-04-07,Demo 4.54,C. Lindqvist,P. Doyle,1,1.64,2.45
+2022-04-09,Demo 4.55,P. Doyle,G. Petrov,0,2.57,1.42
+2022-04-11,Demo 4.56,G. Petrov,A. Novak,0,1.75,2.19
+2022-04-13,Demo 4.57,L. Kowalski,E. Tanaka,1,1.49,2.43
+2022-04-15,Demo 4.58,J. Schmidt,E. Tanaka,1,1.89,2.03
+2022-04-17,Demo 4.59,N. Berg,O. Silva,0,1.64,2.53
+2022-04-19,Demo 4.60,F. O'Connell,O. Silva,0,2.35,1.61
+2022-04-21,Demo 4.61,E. Tanaka,D. Moreau,1,2.48,1.67
+2022-04-23,Demo 4.62,B. Ferreira,G. Petrov,0,2.15,1.64
+2022-04-25,Demo 4.63,B. Ferreira,J. Schmidt,0,2.04,1.69
+2022-04-27,Demo 4.64,N. Berg,H. Van Dijk,1,1.83,2.11
+2022-04-29,Demo 4.65,E. Tanaka,D. Moreau,0,2.48,1.66
+2022-05-01,Demo 4.66,I. Costa,J. Schmidt,0,1.96,1.68
+2022-05-03,Demo 4.67,D. Moreau,I. Costa,1,1.62,2.3
+2022-05-05,Demo 4.68,G. Petrov,M. Rossi,1,2.12,1.78
+2022-05-07,Demo 4.69,N. Berg,E. Tanaka,0,1.74,2.05
+2022-05-09,Demo 4.70,H. Van Dijk,A. Novak,1,1.93,1.83
+2022-05-11,Demo 4.71,P. Doyle,C. Lindqvist,1,2.42,1.62
+2022-05-13,Demo 4.72,H. Van Dijk,P. Doyle,0,1.66,2.16
+2022-05-15,Demo 4.73,D. Moreau,N. Berg,1,1.67,2.16
+2022-05-17,Demo 4.74,D. Moreau,B. Ferreira,0,1.6,2.35
+2022-05-19,Demo 4.75,E. Tanaka,K. Mbaye,0,2.14,1.71
+2022-05-21,Demo 4.76,C. Lindqvist,F. O'Connell,1,1.49,2.47
+2022-05-23,Demo 4.77,O. Silva,E. Tanaka,0,2.34,1.79
+2022-05-25,Demo 4.78,F. O'Connell,B. Ferreira,1,2.62,1.66
+2022-05-27,Demo 4.79,F. O'Connell,B. Ferreira,0,2.47,1.53
+2022-05-29,Demo 4.80,M. Rossi,P. Doyle,1,1.4,2.67
+2022-05-31,Demo 4.81,E. Tanaka,H. Van Dijk,1,1.86,1.91
+2022-06-02,Demo 4.82,K. Mbaye,A. Novak,0,1.8,2.23
+2022-06-04,Demo 4.83,H. Van Dijk,K. Mbaye,0,2.23,1.76
+2022-06-06,Demo 4.84,H. Van Dijk,P. Doyle,1,1.66,2.37
+2022-06-08,Demo 4.85,B. Ferreira,A. Novak,0,1.95,1.81
+2022-06-10,Demo 4.86,C. Lindqvist,M. Rossi,0,2.27,1.5
+2022-06-12,Demo 4.87,B. Ferreira,I. Costa,1,1.79,1.92
+2022-06-14,Demo 4.88,O. Silva,B. Ferreira,0,2.23,1.68
+2022-06-16,Demo 4.89,P. Doyle,L. Kowalski,0,2.95,1.42
+2022-06-18,Demo 4.90,C. Lindqvist,M. Rossi,0,2.35,1.67
+2022-06-20,Demo 4.91,G. Petrov,K. Mbaye,1,2.03,1.9
+2022-06-22,Demo 4.92,O. Silva,F. O'Connell,1,1.68,2.37
+2022-06-24,Demo 4.93,L. Kowalski,P. Doyle,1,1.42,2.73
+2022-06-26,Demo 4.94,J. Schmidt,I. Costa,1,1.78,2.09
+2022-06-28,Demo 4.95,F. O'Connell,H. Van Dijk,0,2.37,1.48
+2022-06-30,Demo 4.96,G. Petrov,B. Ferreira,0,1.77,2.08
+2022-07-02,Demo 4.97,G. Petrov,L. Kowalski,1,2.17,1.67
+2022-07-04,Demo 4.98,D. Moreau,M. Rossi,0,1.99,1.9
+2022-07-06,Demo 4.99,E. Tanaka,H. Van Dijk,1,1.84,2.07
+2022-07-08,Demo 4.100,F. O'Connell,L. Kowalski,0,3.01,1.42
+2022-07-10,Demo 4.101,M. Rossi,K. Mbaye,1,1.82,2.32
+2022-07-12,Demo 4.102,H. Van Dijk,E. Tanaka,1,2.01,1.8
+2022-07-14,Demo 4.103,E. Tanaka,C. Lindqvist,0,1.85,1.93
+2022-07-16,Demo 4.104,K. Mbaye,L. Kowalski,0,2.45,1.61
+2022-07-18,Demo 4.105,G. Petrov,J. Schmidt,0,1.92,1.92
+2022-07-20,Demo 4.106,F. O'Connell,I. Costa,0,2.69,1.58
+2022-07-22,Demo 4.107,L. Kowalski,I. Costa,1,1.5,2.81
+2022-07-24,Demo 4.108,J. Schmidt,O. Silva,0,1.59,2.47
+2022-07-26,Demo 4.109,A. Novak,G. Petrov,1,2.03,1.72
+2022-07-28,Demo 4.110,J. Schmidt,K. Mbaye,1,1.89,1.95
+2022-07-30,Demo 4.111,J. Schmidt,D. Moreau,0,2.22,1.59
+2022-08-01,Demo 4.112,H. Van Dijk,L. Kowalski,0,2.75,1.46
+2022-08-03,Demo 4.113,J. Schmidt,L. Kowalski,0,2.7,1.44
+2022-08-05,Demo 4.114,K. Mbaye,I. Costa,1,1.73,2.18
+2022-08-07,Demo 4.115,O. Silva,N. Berg,0,2.18,1.66
+2022-08-09,Demo 4.116,G. Petrov,M. Rossi,0,2.02,1.71
+2022-08-11,Demo 4.117,C. Lindqvist,P. Doyle,1,1.62,2.27
+2022-08-13,Demo 4.118,I. Costa,C. Lindqvist,1,1.95,1.87
+2022-08-15,Demo 4.119,O. Silva,L. Kowalski,0,2.82,1.51
+2022-08-17,Demo 4.120,J. Schmidt,H. Van Dijk,0,1.78,2.1
+2022-08-19,Demo 4.121,K. Mbaye,I. Costa,1,1.69,2.22
+2022-08-21,Demo 4.122,M. Rossi,B. Ferreira,1,1.56,2.43
+2022-08-23,Demo 4.123,K. Mbaye,F. O'Connell,1,1.36,2.95
+2022-08-25,Demo 4.124,A. Novak,B. Ferreira,0,2.06,1.86
+2022-08-27,Demo 4.125,H. Van Dijk,A. Novak,0,2.03,1.79
+2022-08-29,Demo 4.126,J. Schmidt,A. Novak,0,1.77,2.1
+2022-08-31,Demo 4.127,O. Silva,H. Van Dijk,1,2.08,1.89
+2022-09-02,Demo 4.128,F. O'Connell,M. Rossi,0,2.82,1.42
+2022-09-04,Demo 4.129,G. Petrov,N. Berg,1,1.94,1.93
+2022-09-06,Demo 4.130,N. Berg,K. Mbaye,0,1.86,1.81
+2022-09-08,Demo 4.131,A. Novak,H. Van Dijk,1,1.87,1.93
+2022-09-10,Demo 4.132,C. Lindqvist,J. Schmidt,0,1.94,1.85
+2022-09-12,Demo 4.133,O. Silva,K. Mbaye,0,2.33,1.58
+2022-09-14,Demo 4.134,C. Lindqvist,M. Rossi,0,2.1,1.6
+2022-09-16,Demo 4.135,L. Kowalski,O. Silva,1,1.44,2.91
+2022-09-18,Demo 4.136,O. Silva,G. Petrov,0,2.52,1.61
+2022-09-20,Demo 4.137,H. Van Dijk,C. Lindqvist,0,2.13,1.87
+2022-09-22,Demo 4.138,J. Schmidt,K. Mbaye,0,1.81,1.89
+2022-09-24,Demo 4.139,L. Kowalski,A. Novak,1,1.54,2.38
+2022-09-26,Demo 4.140,C. Lindqvist,E. Tanaka,1,1.9,2.04
+2022-09-28,Demo 4.141,G. Petrov,P. Doyle,1,1.57,2.5
+2022-09-30,Demo 4.142,I. Costa,D. Moreau,1,2.44,1.66
+2022-10-02,Demo 4.143,B. Ferreira,N. Berg,0,2.34,1.81
+2022-10-04,Demo 4.144,C. Lindqvist,E. Tanaka,1,1.91,2.0
+2022-10-06,Demo 4.145,K. Mbaye,F. O'Connell,1,1.42,3.01
+2022-10-08,Demo 4.146,K. Mbaye,H. Van Dijk,1,1.75,2.2
+2022-10-10,Demo 4.147,E. Tanaka,J. Schmidt,0,2.08,1.78
+2022-10-12,Demo 4.148,H. Van Dijk,L. Kowalski,0,2.89,1.46
+2022-10-14,Demo 4.149,E. Tanaka,K. Mbaye,0,2.28,1.8
+2022-10-16,Demo 4.150,D. Moreau,C. Lindqvist,1,1.58,2.26
+2022-10-18,Demo 4.151,E. Tanaka,O. Silva,0,1.69,2.17
+2022-10-20,Demo 4.152,A. Novak,N. Berg,0,1.92,1.78
+2022-10-22,Demo 4.153,M. Rossi,P. Doyle,1,1.52,3.39
+2022-10-24,Demo 4.154,P. Doyle,K. Mbaye,0,2.59,1.5
+2022-10-26,Demo 4.155,J. Schmidt,C. Lindqvist,1,1.79,2.14
+2022-10-28,Demo 4.156,F. O'Connell,M. Rossi,0,2.98,1.41
+2022-10-30,Demo 4.157,E. Tanaka,L. Kowalski,1,2.91,1.52
+2022-11-01,Demo 4.158,I. Costa,F. O'Connell,1,1.55,2.69
+2022-11-03,Demo 4.159,L. Kowalski,G. Petrov,1,1.61,2.22
+2022-11-05,Demo 4.160,I. Costa,N. Berg,0,2.17,1.81
+2022-11-07,Demo 4.161,M. Rossi,K. Mbaye,0,1.68,2.05
+2022-11-09,Demo 4.162,H. Van Dijk,I. Costa,1,1.9,1.95
+2022-11-11,Demo 4.163,P. Doyle,O. Silva,1,2.1,1.78
+2022-11-13,Demo 4.164,I. Costa,D. Moreau,1,2.28,1.54
+2022-11-15,Demo 4.165,D. Moreau,K. Mbaye,0,1.62,2.24
+2022-11-17,Demo 4.166,G. Petrov,J. Schmidt,1,1.81,2.02
+2022-11-19,Demo 4.167,B. Ferreira,C. Lindqvist,0,1.95,1.79
+2022-11-21,Demo 4.168,B. Ferreira,C. Lindqvist,1,1.85,1.72
+2022-11-23,Demo 4.169,A. Novak,O. Silva,1,1.77,2.1
+2022-11-25,Demo 4.170,P. Doyle,N. Berg,0,2.44,1.5
+2022-11-27,Demo 4.171,E. Tanaka,M. Rossi,0,2.39,1.66
+2022-11-29,Demo 4.172,K. Mbaye,O. Silva,1,1.62,2.44
+2022-12-01,Demo 4.173,M. Rossi,C. Lindqvist,0,1.61,2.4
+2022-12-03,Demo 4.174,E. Tanaka,J. Schmidt,1,2.14,1.79
+2022-12-05,Demo 4.175,B. Ferreira,O. Silva,1,1.76,2.23
+2022-12-07,Demo 4.176,A. Novak,O. Silva,0,1.71,2.29
+2022-12-09,Demo 4.177,N. Berg,F. O'Connell,1,1.53,2.54
+2022-12-11,Demo 4.178,M. Rossi,F. O'Connell,1,1.43,3.21
+2022-12-13,Demo 4.179,D. Moreau,G. Petrov,1,1.7,2.03
+2022-12-15,Demo 4.180,N. Berg,E. Tanaka,1,1.84,2.17
+2022-12-17,Demo 5.1,D. Moreau,I. Costa,1,1.59,2.41
+2022-12-19,Demo 5.2,E. Tanaka,G. Petrov,0,2.13,1.61
+2022-12-21,Demo 5.3,N. Berg,J. Schmidt,0,1.86,1.9
+2022-12-23,Demo 5.4,P. Doyle,C. Lindqvist,0,2.44,1.61
+2022-12-25,Demo 5.5,J. Schmidt,P. Doyle,1,1.49,2.36
+2022-12-27,Demo 5.6,H. Van Dijk,P. Doyle,0,1.61,2.29
+2022-12-29,Demo 5.7,M. Rossi,P. Doyle,1,1.42,2.74
+2022-12-31,Demo 5.8,A. Novak,M. Rossi,1,2.16,1.53
+2023-01-02,Demo 5.9,N. Berg,B. Ferreira,1,1.77,1.96
+2023-01-04,Demo 5.10,M. Rossi,J. Schmidt,0,1.74,1.94
+2023-01-06,Demo 5.11,B. Ferreira,M. Rossi,0,2.47,1.59
+2023-01-08,Demo 5.12,J. Schmidt,D. Moreau,1,2.29,1.73
+2023-01-10,Demo 5.13,H. Van Dijk,J. Schmidt,1,2.06,1.72
+2023-01-12,Demo 5.14,I. Costa,M. Rossi,0,2.4,1.66
+2023-01-14,Demo 5.15,G. Petrov,I. Costa,0,1.69,2.33
+2023-01-16,Demo 5.16,L. Kowalski,F. O'Connell,0,1.41,2.76
+2023-01-18,Demo 5.17,G. Petrov,H. Van Dijk,1,1.72,2.24
+2023-01-20,Demo 5.18,C. Lindqvist,I. Costa,1,1.74,2.0
+2023-01-22,Demo 5.19,I. Costa,O. Silva,1,1.73,2.25
+2023-01-24,Demo 5.20,P. Doyle,M. Rossi,0,2.86,1.4
+2023-01-26,Demo 5.21,O. Silva,P. Doyle,1,1.8,1.93
+2023-01-28,Demo 5.22,H. Van Dijk,K. Mbaye,0,2.11,1.78
+2023-01-30,Demo 5.23,L. Kowalski,I. Costa,1,1.52,2.62
+2023-02-01,Demo 5.24,K. Mbaye,B. Ferreira,1,1.72,2.03
+2023-02-03,Demo 5.25,G. Petrov,O. Silva,1,1.58,2.37
+2023-02-05,Demo 5.26,G. Petrov,D. Moreau,0,2.04,1.79
+2023-02-07,Demo 5.27,G. Petrov,N. Berg,1,1.72,1.87
+2023-02-09,Demo 5.28,P. Doyle,J. Schmidt,1,2.28,1.66
+2023-02-11,Demo 5.29,P. Doyle,F. O'Connell,0,1.77,1.99
+2023-02-13,Demo 5.30,P. Doyle,C. Lindqvist,0,2.28,1.62
+2023-02-15,Demo 5.31,H. Van Dijk,M. Rossi,0,2.38,1.66
+2023-02-17,Demo 5.32,L. Kowalski,G. Petrov,0,1.61,2.45
+2023-02-19,Demo 5.33,D. Moreau,L. Kowalski,1,2.13,1.75
+2023-02-21,Demo 5.34,D. Moreau,F. O'Connell,1,1.4,2.98
+2023-02-23,Demo 5.35,I. Costa,D. Moreau,0,2.1,1.57
+2023-02-25,Demo 5.36,N. Berg,L. Kowalski,0,2.52,1.53
+2023-02-27,Demo 5.37,O. Silva,C. Lindqvist,0,2.34,1.64
+2023-03-01,Demo 5.38,H. Van Dijk,I. Costa,1,1.96,1.85
+2023-03-03,Demo 5.39,E. Tanaka,H. Van Dijk,1,1.89,1.82
+2023-03-05,Demo 5.40,K. Mbaye,M. Rossi,0,2.11,1.62
+2023-03-07,Demo 5.41,B. Ferreira,G. Petrov,1,2.11,1.71
+2023-03-09,Demo 5.42,D. Moreau,H. Van Dijk,1,1.59,2.28
+2023-03-11,Demo 5.43,I. Costa,F. O'Connell,0,1.52,2.46
+2023-03-13,Demo 5.44,F. O'Connell,M. Rossi,0,2.98,1.38
+2023-03-15,Demo 5.45,O. Silva,P. Doyle,1,1.75,1.88
+2023-03-17,Demo 5.46,K. Mbaye,G. Petrov,0,2.1,1.93
+2023-03-19,Demo 5.47,C. Lindqvist,B. Ferreira,1,1.83,1.95
+2023-03-21,Demo 5.48,M. Rossi,E. Tanaka,0,1.6,2.58
+2023-03-23,Demo 5.49,O. Silva,G. Petrov,1,2.24,1.56
+2023-03-25,Demo 5.50,C. Lindqvist,D. Moreau,1,2.28,1.61
+2023-03-27,Demo 5.51,P. Doyle,I. Costa,0,2.24,1.6
+2023-03-29,Demo 5.52,E. Tanaka,B. Ferreira,0,1.84,1.97
+2023-03-31,Demo 5.53,H. Van Dijk,L. Kowalski,1,2.43,1.49
+2023-04-02,Demo 5.54,L. Kowalski,N. Berg,0,1.53,2.54
+2023-04-04,Demo 5.55,I. Costa,P. Doyle,0,1.58,2.24
+2023-04-06,Demo 5.56,N. Berg,I. Costa,0,1.93,2.1
+2023-04-08,Demo 5.57,P. Doyle,I. Costa,0,2.25,1.65
+2023-04-10,Demo 5.58,A. Novak,P. Doyle,1,1.61,2.4
+2023-04-12,Demo 5.59,J. Schmidt,H. Van Dijk,1,1.77,2.08
+2023-04-14,Demo 5.60,N. Berg,M. Rossi,1,2.17,1.69
+2023-04-16,Demo 5.61,L. Kowalski,D. Moreau,1,1.68,2.05
+2023-04-18,Demo 5.62,M. Rossi,N. Berg,1,1.7,2.07
+2023-04-20,Demo 5.63,H. Van Dijk,I. Costa,0,2.11,1.91
+2023-04-22,Demo 5.64,I. Costa,G. Petrov,1,2.12,1.68
+2023-04-24,Demo 5.65,D. Moreau,K. Mbaye,0,1.7,2.22
+2023-04-26,Demo 5.66,E. Tanaka,A. Novak,0,1.72,1.88
+2023-04-28,Demo 5.67,J. Schmidt,E. Tanaka,1,1.75,2.0
+2023-04-30,Demo 5.68,G. Petrov,F. O'Connell,1,1.44,2.97
+2023-05-02,Demo 5.69,L. Kowalski,H. Van Dijk,1,1.51,2.61
+2023-05-04,Demo 5.70,I. Costa,M. Rossi,0,2.41,1.62
+2023-05-06,Demo 5.71,I. Costa,N. Berg,0,2.05,1.79
+2023-05-08,Demo 5.72,O. Silva,D. Moreau,0,2.47,1.49
+2023-05-10,Demo 5.73,D. Moreau,I. Costa,1,1.63,2.12
+2023-05-12,Demo 5.74,F. O'Connell,K. Mbaye,0,2.74,1.52
+2023-05-14,Demo 5.75,D. Moreau,E. Tanaka,1,1.61,2.17
+2023-05-16,Demo 5.76,D. Moreau,P. Doyle,1,1.47,2.65
+2023-05-18,Demo 5.77,I. Costa,J. Schmidt,1,1.96,1.67
+2023-05-20,Demo 5.78,P. Doyle,L. Kowalski,0,2.94,1.41
+2023-05-22,Demo 5.79,F. O'Connell,H. Van Dijk,0,2.42,1.47
+2023-05-24,Demo 5.80,B. Ferreira,F. O'Connell,1,1.54,2.82
+2023-05-26,Demo 5.81,E. Tanaka,H. Van Dijk,0,1.66,1.96
+2023-05-28,Demo 5.82,O. Silva,L. Kowalski,0,2.86,1.48
+2023-05-30,Demo 5.83,E. Tanaka,P. Doyle,1,1.64,2.4
+2023-06-01,Demo 5.84,G. Petrov,J. Schmidt,1,1.88,1.9
+2023-06-03,Demo 5.85,I. Costa,N. Berg,0,2.25,1.74
+2023-06-05,Demo 5.86,J. Schmidt,N. Berg,1,1.9,1.9
+2023-06-07,Demo 5.87,M. Rossi,L. Kowalski,0,2.13,1.7
+2023-06-09,Demo 5.88,C. Lindqvist,K. Mbaye,0,2.04,1.81
+2023-06-11,Demo 5.89,P. Doyle,M. Rossi,0,2.78,1.48
+2023-06-13,Demo 5.90,C. Lindqvist,A. Novak,0,1.79,1.81
+2023-06-15,Demo 5.91,G. Petrov,B. Ferreira,1,1.71,2.08
+2023-06-17,Demo 5.92,I. Costa,A. Novak,1,1.96,1.89
+2023-06-19,Demo 5.93,G. Petrov,K. Mbaye,1,1.85,1.94
+2023-06-21,Demo 5.94,N. Berg,P. Doyle,1,1.58,2.72
+2023-06-23,Demo 5.95,I. Costa,P. Doyle,1,1.62,2.06
+2023-06-25,Demo 5.96,D. Moreau,B. Ferreira,0,1.64,2.35
+2023-06-27,Demo 5.97,H. Van Dijk,J. Schmidt,0,2.13,1.78
+2023-06-29,Demo 5.98,L. Kowalski,K. Mbaye,1,1.65,2.6
+2023-07-01,Demo 5.99,F. O'Connell,M. Rossi,0,2.73,1.34
+2023-07-03,Demo 5.100,O. Silva,P. Doyle,1,1.88,1.81
+2023-07-05,Demo 5.101,K. Mbaye,N. Berg,1,1.77,1.98
+2023-07-07,Demo 5.102,G. Petrov,P. Doyle,1,1.48,2.62
+2023-07-09,Demo 5.103,O. Silva,H. Van Dijk,1,2.13,1.72
+2023-07-11,Demo 5.104,E. Tanaka,O. Silva,1,1.69,2.14
+2023-07-13,Demo 5.105,K. Mbaye,A. Novak,0,1.92,1.99
+2023-07-15,Demo 5.106,E. Tanaka,B. Ferreira,1,1.91,1.89
+2023-07-17,Demo 5.107,L. Kowalski,O. Silva,1,1.46,2.67
+2023-07-19,Demo 5.108,G. Petrov,L. Kowalski,1,2.38,1.56
+2023-07-21,Demo 5.109,P. Doyle,N. Berg,0,2.59,1.49
+2023-07-23,Demo 5.110,B. Ferreira,L. Kowalski,0,2.76,1.46
+2023-07-25,Demo 5.111,K. Mbaye,F. O'Connell,0,1.49,2.55
+2023-07-27,Demo 5.112,A. Novak,K. Mbaye,0,2.14,1.72
+2023-07-29,Demo 5.113,B. Ferreira,F. O'Connell,1,1.52,2.56
+2023-07-31,Demo 5.114,M. Rossi,H. Van Dijk,0,1.62,2.39
+2023-08-02,Demo 5.115,N. Berg,E. Tanaka,1,1.84,2.16
+2023-08-04,Demo 5.116,M. Rossi,E. Tanaka,1,1.73,2.29
+2023-08-06,Demo 5.117,E. Tanaka,M. Rossi,0,2.19,1.65
+2023-08-08,Demo 5.118,H. Van Dijk,D. Moreau,1,2.37,1.63
+2023-08-10,Demo 5.119,C. Lindqvist,B. Ferreira,1,1.95,1.98
+2023-08-12,Demo 5.120,A. Novak,M. Rossi,1,2.16,1.63
+2023-08-14,Demo 5.121,O. Silva,J. Schmidt,0,2.3,1.59
+2023-08-16,Demo 5.122,C. Lindqvist,B. Ferreira,0,1.87,1.83
+2023-08-18,Demo 5.123,E. Tanaka,N. Berg,1,2.08,1.79
+2023-08-20,Demo 5.124,P. Doyle,A. Novak,0,2.34,1.65
+2023-08-22,Demo 5.125,I. Costa,P. Doyle,1,1.62,2.31
+2023-08-24,Demo 5.126,B. Ferreira,E. Tanaka,1,1.95,1.76
+2023-08-26,Demo 5.127,I. Costa,A. Novak,1,1.9,1.93
+2023-08-28,Demo 5.128,L. Kowalski,N. Berg,1,1.59,2.21
+2023-08-30,Demo 5.129,M. Rossi,D. Moreau,0,1.94,1.82
+2023-09-01,Demo 5.130,C. Lindqvist,P. Doyle,1,1.53,2.39
+2023-09-03,Demo 5.131,A. Novak,P. Doyle,1,1.54,2.39
+2023-09-05,Demo 5.132,L. Kowalski,K. Mbaye,1,1.62,2.43
+2023-09-07,Demo 5.133,I. Costa,M. Rossi,0,2.31,1.46
+2023-09-09,Demo 5.134,I. Costa,D. Moreau,1,2.23,1.64
+2023-09-11,Demo 5.135,C. Lindqvist,L. Kowalski,0,2.33,1.55
+2023-09-13,Demo 5.136,H. Van Dijk,J. Schmidt,1,1.91,1.78
+2023-09-15,Demo 5.137,K. Mbaye,H. Van Dijk,1,1.72,2.33
+2023-09-17,Demo 5.138,E. Tanaka,P. Doyle,1,1.51,2.51
+2023-09-19,Demo 5.139,N. Berg,O. Silva,0,1.62,2.24
+2023-09-21,Demo 5.140,D. Moreau,C. Lindqvist,1,1.56,2.44
+2023-09-23,Demo 5.141,K. Mbaye,O. Silva,1,1.61,2.4
+2023-09-25,Demo 5.142,I. Costa,C. Lindqvist,0,1.91,1.83
+2023-09-27,Demo 5.143,I. Costa,J. Schmidt,1,2.09,1.79
+2023-09-29,Demo 5.144,P. Doyle,C. Lindqvist,0,2.51,1.65
+2023-10-01,Demo 5.145,L. Kowalski,C. Lindqvist,1,1.57,2.53
+2023-10-03,Demo 5.146,A. Novak,O. Silva,1,1.77,2.11
+2023-10-05,Demo 5.147,G. Petrov,M. Rossi,0,2.0,1.86
+2023-10-07,Demo 5.148,K. Mbaye,N. Berg,1,1.85,1.88
+2023-10-09,Demo 5.149,B. Ferreira,J. Schmidt,1,2.13,1.88
+2023-10-11,Demo 5.150,B. Ferreira,I. Costa,1,2.05,1.88
+2023-10-13,Demo 5.151,H. Van Dijk,I. Costa,1,1.98,1.98
+2023-10-15,Demo 5.152,B. Ferreira,D. Moreau,0,2.42,1.58
+2023-10-17,Demo 5.153,J. Schmidt,H. Van Dijk,0,1.71,2.16
+2023-10-19,Demo 5.154,O. Silva,N. Berg,0,2.22,1.58
+2023-10-21,Demo 5.155,F. O'Connell,M. Rossi,0,3.08,1.45
+2023-10-23,Demo 5.156,A. Novak,C. Lindqvist,1,1.8,1.99
+2023-10-25,Demo 5.157,O. Silva,B. Ferreira,0,2.04,1.66
+2023-10-27,Demo 5.158,D. Moreau,B. Ferreira,1,1.66,2.31
+2023-10-29,Demo 5.159,M. Rossi,L. Kowalski,0,2.27,1.76
+2023-10-31,Demo 5.160,F. O'Connell,O. Silva,0,2.14,1.72
+2023-11-02,Demo 5.161,F. O'Connell,N. Berg,1,2.5,1.5
+2023-11-04,Demo 5.162,O. Silva,E. Tanaka,0,2.16,1.66
+2023-11-06,Demo 5.163,G. Petrov,A. Novak,1,1.75,2.06
+2023-11-08,Demo 5.164,A. Novak,J. Schmidt,0,2.02,1.71
+2023-11-10,Demo 5.165,P. Doyle,H. Van Dijk,0,2.25,1.64
+2023-11-12,Demo 5.166,G. Petrov,A. Novak,1,1.67,2.1
+2023-11-14,Demo 5.167,E. Tanaka,N. Berg,0,1.99,1.82
+2023-11-16,Demo 5.168,D. Moreau,G. Petrov,0,1.73,2.02
+2023-11-18,Demo 5.169,F. O'Connell,H. Van Dijk,1,2.65,1.53
+2023-11-20,Demo 5.170,M. Rossi,N. Berg,1,1.77,2.12
+2023-11-22,Demo 5.171,J. Schmidt,H. Van Dijk,1,1.68,2.2
+2023-11-24,Demo 5.172,G. Petrov,J. Schmidt,1,2.01,2.11
+2023-11-26,Demo 5.173,C. Lindqvist,H. Van Dijk,0,1.94,2.0
+2023-11-28,Demo 5.174,K. Mbaye,E. Tanaka,1,1.7,2.08
+2023-11-30,Demo 5.175,E. Tanaka,J. Schmidt,0,2.06,1.85
+2023-12-02,Demo 5.176,H. Van Dijk,L. Kowalski,0,2.59,1.48
+2023-12-04,Demo 5.177,O. Silva,K. Mbaye,1,2.59,1.63
+2023-12-06,Demo 5.178,B. Ferreira,F. O'Connell,1,1.5,2.66
+2023-12-08,Demo 5.179,G. Petrov,L. Kowalski,0,2.14,1.67
+2023-12-10,Demo 5.180,A. Novak,B. Ferreira,0,1.96,1.82
+2023-12-12,Demo 6.1,A. Novak,N. Berg,1,1.96,1.87
+2023-12-14,Demo 6.2,B. Ferreira,K. Mbaye,1,2.04,1.69
+2023-12-16,Demo 6.3,K. Mbaye,H. Van Dijk,0,1.78,2.1
+2023-12-18,Demo 6.4,K. Mbaye,I. Costa,1,1.71,1.99
+2023-12-20,Demo 6.5,L. Kowalski,B. Ferreira,1,1.52,2.39
+2023-12-22,Demo 6.6,F. O'Connell,J. Schmidt,0,2.66,1.45
+2023-12-24,Demo 6.7,J. Schmidt,L. Kowalski,0,2.59,1.48
+2023-12-26,Demo 6.8,L. Kowalski,H. Van Dijk,1,1.52,2.46
+2023-12-28,Demo 6.9,F. O'Connell,B. Ferreira,0,2.54,1.47
+2023-12-30,Demo 6.10,P. Doyle,O. Silva,0,1.96,1.66
+2024-01-01,Demo 6.11,J. Schmidt,M. Rossi,1,2.03,1.63
+2024-01-03,Demo 6.12,E. Tanaka,D. Moreau,0,2.5,1.6
+2024-01-05,Demo 6.13,D. Moreau,A. Novak,0,1.6,2.26
+2024-01-07,Demo 6.14,B. Ferreira,P. Doyle,1,1.64,2.41
+2024-01-09,Demo 6.15,J. Schmidt,K. Mbaye,1,2.0,1.87
+2024-01-11,Demo 6.16,O. Silva,K. Mbaye,1,2.33,1.55
+2024-01-13,Demo 6.17,A. Novak,J. Schmidt,0,2.04,1.85
+2024-01-15,Demo 6.18,J. Schmidt,P. Doyle,1,1.49,2.4
+2024-01-17,Demo 6.19,K. Mbaye,I. Costa,1,1.72,2.14
+2024-01-19,Demo 6.20,B. Ferreira,P. Doyle,1,1.58,2.19
+2024-01-21,Demo 6.21,O. Silva,J. Schmidt,1,2.25,1.61
+2024-01-23,Demo 6.22,C. Lindqvist,O. Silva,0,1.7,2.2
+2024-01-25,Demo 6.23,O. Silva,B. Ferreira,0,2.14,1.74
+2024-01-27,Demo 6.24,H. Van Dijk,C. Lindqvist,0,2.12,1.95
+2024-01-29,Demo 6.25,M. Rossi,C. Lindqvist,0,1.72,2.2
+2024-01-31,Demo 6.26,A. Novak,B. Ferreira,1,1.94,1.85
+2024-02-02,Demo 6.27,F. O'Connell,E. Tanaka,1,2.79,1.44
+2024-02-04,Demo 6.28,D. Moreau,F. O'Connell,1,1.39,2.83
+2024-02-06,Demo 6.29,O. Silva,G. Petrov,0,2.49,1.53
+2024-02-08,Demo 6.30,C. Lindqvist,F. O'Connell,1,1.52,2.74
+2024-02-10,Demo 6.31,N. Berg,J. Schmidt,1,2.01,1.92
+2024-02-12,Demo 6.32,P. Doyle,B. Ferreira,0,2.47,1.6
+2024-02-14,Demo 6.33,O. Silva,C. Lindqvist,0,2.12,1.7
+2024-02-16,Demo 6.34,M. Rossi,F. O'Connell,1,1.43,2.94
+2024-02-18,Demo 6.35,E. Tanaka,O. Silva,0,1.73,2.2
+2024-02-20,Demo 6.36,O. Silva,I. Costa,1,2.24,1.75
+2024-02-22,Demo 6.37,G. Petrov,K. Mbaye,0,1.91,2.03
+2024-02-24,Demo 6.38,N. Berg,L. Kowalski,0,2.46,1.55
+2024-02-26,Demo 6.39,A. Novak,J. Schmidt,1,2.03,1.82
+2024-02-28,Demo 6.40,B. Ferreira,A. Novak,0,1.89,1.96
+2024-03-01,Demo 6.41,J. Schmidt,N. Berg,0,1.89,2.0
+2024-03-03,Demo 6.42,M. Rossi,G. Petrov,1,1.76,2.0
+2024-03-05,Demo 6.43,E. Tanaka,D. Moreau,0,2.39,1.66
+2024-03-07,Demo 6.44,E. Tanaka,C. Lindqvist,1,1.94,1.93
+2024-03-09,Demo 6.45,P. Doyle,K. Mbaye,1,2.38,1.56
+2024-03-11,Demo 6.46,O. Silva,P. Doyle,0,1.85,2.09
+2024-03-13,Demo 6.47,F. O'Connell,H. Van Dijk,0,2.53,1.55
+2024-03-15,Demo 6.48,A. Novak,J. Schmidt,0,2.04,1.91
+2024-03-17,Demo 6.49,I. Costa,G. Petrov,1,2.23,1.63
+2024-03-19,Demo 6.50,L. Kowalski,B. Ferreira,1,1.49,2.58
+2024-03-21,Demo 6.51,I. Costa,H. Van Dijk,0,1.89,1.92
+2024-03-23,Demo 6.52,C. Lindqvist,K. Mbaye,0,2.04,1.82
+2024-03-25,Demo 6.53,B. Ferreira,O. Silva,1,1.61,2.3
+2024-03-27,Demo 6.54,K. Mbaye,G. Petrov,1,1.89,1.87
+2024-03-29,Demo 6.55,F. O'Connell,A. Novak,0,2.77,1.5
+2024-03-31,Demo 6.56,P. Doyle,J. Schmidt,1,2.15,1.5
+2024-04-02,Demo 6.57,A. Novak,E. Tanaka,1,1.91,1.89
+2024-04-04,Demo 6.58,I. Costa,E. Tanaka,0,1.91,1.86
+2024-04-06,Demo 6.59,F. O'Connell,O. Silva,0,2.31,1.62
+2024-04-08,Demo 6.60,H. Van Dijk,P. Doyle,1,1.65,2.28
+2024-04-10,Demo 6.61,C. Lindqvist,P. Doyle,0,1.66,2.35
+2024-04-12,Demo 6.62,M. Rossi,D. Moreau,0,1.93,1.93
+2024-04-14,Demo 6.63,L. Kowalski,A. Novak,1,1.58,2.49
+2024-04-16,Demo 6.64,J. Schmidt,H. Van Dijk,0,1.75,2.2
+2024-04-18,Demo 6.65,M. Rossi,K. Mbaye,1,1.81,2.1
+2024-04-20,Demo 6.66,O. Silva,G. Petrov,0,2.27,1.58
+2024-04-22,Demo 6.67,B. Ferreira,P. Doyle,0,1.65,2.58
+2024-04-24,Demo 6.68,I. Costa,F. O'Connell,1,1.51,2.65
+2024-04-26,Demo 6.69,M. Rossi,H. Van Dijk,1,1.69,2.43
+2024-04-28,Demo 6.70,K. Mbaye,P. Doyle,1,1.5,2.38
+2024-04-30,Demo 6.71,A. Novak,N. Berg,0,1.99,1.83
+2024-05-02,Demo 6.72,J. Schmidt,E. Tanaka,1,1.78,2.01
+2024-05-04,Demo 6.73,G. Petrov,J. Schmidt,1,1.9,1.98
+2024-05-06,Demo 6.74,F. O'Connell,O. Silva,1,2.24,1.59
+2024-05-08,Demo 6.75,C. Lindqvist,K. Mbaye,0,1.98,1.8
+2024-05-10,Demo 6.76,K. Mbaye,E. Tanaka,1,1.67,2.01
+2024-05-12,Demo 6.77,M. Rossi,G. Petrov,0,1.75,2.07
+2024-05-14,Demo 6.78,P. Doyle,O. Silva,1,2.14,1.73
+2024-05-16,Demo 6.79,D. Moreau,C. Lindqvist,1,1.64,2.22
+2024-05-18,Demo 6.80,I. Costa,B. Ferreira,1,1.82,1.84
+2024-05-20,Demo 6.81,O. Silva,A. Novak,0,2.23,1.61
+2024-05-22,Demo 6.82,I. Costa,C. Lindqvist,0,1.87,1.91
+2024-05-24,Demo 6.83,P. Doyle,H. Van Dijk,0,2.19,1.62
+2024-05-26,Demo 6.84,A. Novak,G. Petrov,0,2.09,1.79
+2024-05-28,Demo 6.85,L. Kowalski,F. O'Connell,1,1.43,2.92
+2024-05-30,Demo 6.86,K. Mbaye,B. Ferreira,0,1.74,2.18
+2024-06-01,Demo 6.87,G. Petrov,C. Lindqvist,0,1.79,2.15
+2024-06-03,Demo 6.88,D. Moreau,K. Mbaye,0,1.86,2.11
+2024-06-05,Demo 6.89,O. Silva,L. Kowalski,1,2.76,1.41
+2024-06-07,Demo 6.90,M. Rossi,B. Ferreira,0,1.66,2.43
+2024-06-09,Demo 6.91,O. Silva,A. Novak,0,2.19,1.65
+2024-06-11,Demo 6.92,O. Silva,K. Mbaye,0,2.6,1.6
+2024-06-13,Demo 6.93,H. Van Dijk,O. Silva,1,1.68,1.94
+2024-06-15,Demo 6.94,B. Ferreira,D. Moreau,0,2.29,1.58
+2024-06-17,Demo 6.95,B. Ferreira,O. Silva,1,1.6,2.12
+2024-06-19,Demo 6.96,D. Moreau,B. Ferreira,1,1.59,2.42
+2024-06-21,Demo 6.97,G. Petrov,P. Doyle,1,1.44,2.63
+2024-06-23,Demo 6.98,E. Tanaka,F. O'Connell,0,1.49,2.84
+2024-06-25,Demo 6.99,F. O'Connell,P. Doyle,0,2.11,1.69
+2024-06-27,Demo 6.100,F. O'Connell,H. Van Dijk,0,2.58,1.54
+2024-06-29,Demo 6.101,M. Rossi,P. Doyle,1,1.39,2.4
+2024-07-01,Demo 6.102,J. Schmidt,G. Petrov,0,1.98,1.89
+2024-07-03,Demo 6.103,E. Tanaka,D. Moreau,0,2.25,1.62
+2024-07-05,Demo 6.104,B. Ferreira,J. Schmidt,1,2.28,1.79
+2024-07-07,Demo 6.105,J. Schmidt,F. O'Connell,1,1.45,2.33
+2024-07-09,Demo 6.106,L. Kowalski,N. Berg,1,1.6,2.45
+2024-07-11,Demo 6.107,G. Petrov,E. Tanaka,1,1.72,2.01
+2024-07-13,Demo 6.108,P. Doyle,C. Lindqvist,1,2.32,1.61
+2024-07-15,Demo 6.109,L. Kowalski,E. Tanaka,1,1.49,2.44
+2024-07-17,Demo 6.110,D. Moreau,L. Kowalski,1,2.18,1.73
+2024-07-19,Demo 6.111,A. Novak,H. Van Dijk,1,1.85,2.07
+2024-07-21,Demo 6.112,N. Berg,D. Moreau,0,2.14,1.71
+2024-07-23,Demo 6.113,D. Moreau,F. O'Connell,1,1.39,2.78
+2024-07-25,Demo 6.114,C. Lindqvist,H. Van Dijk,1,1.77,1.95
+2024-07-27,Demo 6.115,G. Petrov,O. Silva,1,1.58,2.52
+2024-07-29,Demo 6.116,L. Kowalski,E. Tanaka,1,1.47,2.41
+2024-07-31,Demo 6.117,B. Ferreira,E. Tanaka,1,1.82,1.85
+2024-08-02,Demo 6.118,J. Schmidt,P. Doyle,1,1.52,2.82
+2024-08-04,Demo 6.119,F. O'Connell,J. Schmidt,1,2.75,1.44
+2024-08-06,Demo 6.120,G. Petrov,J. Schmidt,1,1.83,2.0
+2024-08-08,Demo 6.121,N. Berg,L. Kowalski,0,2.5,1.55
+2024-08-10,Demo 6.122,E. Tanaka,O. Silva,1,1.53,2.19
+2024-08-12,Demo 6.123,B. Ferreira,H. Van Dijk,1,1.95,2.07
+2024-08-14,Demo 6.124,D. Moreau,H. Van Dijk,1,1.51,2.29
+2024-08-16,Demo 6.125,N. Berg,D. Moreau,0,2.13,1.63
+2024-08-18,Demo 6.126,J. Schmidt,C. Lindqvist,0,1.74,2.13
+2024-08-20,Demo 6.127,A. Novak,H. Van Dijk,0,1.84,1.9
+2024-08-22,Demo 6.128,O. Silva,L. Kowalski,0,2.76,1.46
+2024-08-24,Demo 6.129,K. Mbaye,I. Costa,1,1.72,2.01
+2024-08-26,Demo 6.130,G. Petrov,M. Rossi,0,2.12,1.82
+2024-08-28,Demo 6.131,B. Ferreira,I. Costa,0,1.92,1.87
+2024-08-30,Demo 6.132,B. Ferreira,F. O'Connell,1,1.56,2.75
+2024-09-01,Demo 6.133,G. Petrov,C. Lindqvist,1,1.74,2.36
+2024-09-03,Demo 6.134,G. Petrov,M. Rossi,0,2.04,1.71
+2024-09-05,Demo 6.135,I. Costa,P. Doyle,1,1.67,2.37
+2024-09-07,Demo 6.136,D. Moreau,H. Van Dijk,1,1.61,2.53
+2024-09-09,Demo 6.137,J. Schmidt,H. Van Dijk,0,1.84,2.01
+2024-09-11,Demo 6.138,C. Lindqvist,D. Moreau,0,2.35,1.62
+2024-09-13,Demo 6.139,F. O'Connell,E. Tanaka,1,2.6,1.49
+2024-09-15,Demo 6.140,E. Tanaka,N. Berg,1,2.0,1.81
+2024-09-17,Demo 6.141,N. Berg,K. Mbaye,1,1.97,1.96
+2024-09-19,Demo 6.142,J. Schmidt,D. Moreau,1,2.14,1.72
+2024-09-21,Demo 6.143,K. Mbaye,G. Petrov,0,2.01,1.98
+2024-09-23,Demo 6.144,O. Silva,H. Van Dijk,1,2.02,1.64
+2024-09-25,Demo 6.145,F. O'Connell,M. Rossi,0,2.69,1.42
+2024-09-27,Demo 6.146,L. Kowalski,E. Tanaka,1,1.47,2.31
+2024-09-29,Demo 6.147,J. Schmidt,C. Lindqvist,0,1.83,2.03
+2024-10-01,Demo 6.148,H. Van Dijk,B. Ferreira,1,1.96,1.83
+2024-10-03,Demo 6.149,I. Costa,F. O'Connell,1,1.47,2.59
+2024-10-05,Demo 6.150,L. Kowalski,H. Van Dijk,1,1.48,2.51
+2024-10-07,Demo 6.151,A. Novak,G. Petrov,0,2.2,1.69
+2024-10-09,Demo 6.152,K. Mbaye,P. Doyle,1,1.57,2.51
+2024-10-11,Demo 6.153,E. Tanaka,M. Rossi,0,2.39,1.66
+2024-10-13,Demo 6.154,B. Ferreira,C. Lindqvist,0,1.92,1.87
+2024-10-15,Demo 6.155,H. Van Dijk,P. Doyle,1,1.6,2.23
+2024-10-17,Demo 6.156,I. Costa,D. Moreau,1,2.49,1.61
+2024-10-19,Demo 6.157,C. Lindqvist,I. Costa,0,1.81,1.98
+2024-10-21,Demo 6.158,L. Kowalski,G. Petrov,1,1.59,2.41
+2024-10-23,Demo 6.159,L. Kowalski,A. Novak,0,1.48,2.52
+2024-10-25,Demo 6.160,O. Silva,L. Kowalski,0,2.75,1.48
+2024-10-27,Demo 6.161,N. Berg,L. Kowalski,0,2.47,1.54
+2024-10-29,Demo 6.162,P. Doyle,N. Berg,0,2.63,1.46
+2024-10-31,Demo 6.163,M. Rossi,B. Ferreira,1,1.61,2.26
+2024-11-02,Demo 6.164,E. Tanaka,D. Moreau,1,2.43,1.57
+2024-11-04,Demo 6.165,B. Ferreira,N. Berg,1,2.19,1.86
+2024-11-06,Demo 6.166,A. Novak,M. Rossi,1,2.32,1.5
+2024-11-08,Demo 6.167,P. Doyle,B. Ferreira,0,2.54,1.7
+2024-11-10,Demo 6.168,H. Van Dijk,A. Novak,1,2.01,1.65
+2024-11-12,Demo 6.169,C. Lindqvist,J. Schmidt,0,2.13,1.75
+2024-11-14,Demo 6.170,P. Doyle,L. Kowalski,0,3.1,1.37
+2024-11-16,Demo 6.171,A. Novak,N. Berg,1,1.92,1.91
+2024-11-18,Demo 6.172,L. Kowalski,C. Lindqvist,1,1.57,2.4
+2024-11-20,Demo 6.173,L. Kowalski,A. Novak,0,1.46,2.81
+2024-11-22,Demo 6.174,F. O'Connell,M. Rossi,0,2.87,1.48
+2024-11-24,Demo 6.175,K. Mbaye,N. Berg,1,1.97,1.98
+2024-11-26,Demo 6.176,L. Kowalski,N. Berg,1,1.54,2.36
+2024-11-28,Demo 6.177,P. Doyle,G. Petrov,1,2.34,1.49
+2024-11-30,Demo 6.178,G. Petrov,M. Rossi,0,2.19,1.86
+2024-12-02,Demo 6.179,D. Moreau,G. Petrov,0,1.75,1.99
+2024-12-04,Demo 6.180,J. Schmidt,L. Kowalski,0,2.33,1.67

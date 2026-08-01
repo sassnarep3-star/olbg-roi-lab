@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+dist/
+build/
+
+# Env / secrets
+.env
+.env.local
+
+# Project outputs (regenerate or git-keep the demo files)
+models/*.json
+reports/
+data/predictions/
+
+# Data: ignore everything except the committed demo files
+data/raw/*
+!data/raw/tennis_demo.csv
+!data/raw/tennis_demo_fixtures.csv
+!data/raw/tennis_demo_meta.json
+!data/raw/.gitkeep
+
+# OS / editors
+.DS_Store
+.idea/
+.vscode/

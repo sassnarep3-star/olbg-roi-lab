@@ -1,0 +1,23 @@
+{
+  "bankroll": {
+    "initial": 1000.0
+  },
+  "betting": {
+    "min_edge": 0.03,
+    "min_odds": 1.5,
+    "min_implied_prob": 0.5,
+    "kelly_fraction": 0.25,
+    "max_stake_fraction": 0.03
+  },
+  "elo": {
+    "start_rating": 1500.0,
+    "k_factor": 32.0,
+    "min_games": 10
+  },
+  "paths": {
+    "data_dir": "data",
+    "models_dir": "models",
+    "reports_dir": "reports",
+    "predictions_dir": "data/predictions"
+  }
+}
